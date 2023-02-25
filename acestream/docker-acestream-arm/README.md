@@ -21,7 +21,7 @@ docker run -it --rm --privileged -p8621:8621 -p6878:6878 -p80:80 acestream-arm
 ```
 If you want a custom configuration
 ```
-docker run -it --rm --privileged -v $(pwd)/acestream.conf:/acestream.engine/acestream.conf -p8621:8621 -p6878:6878  acestream-arm
+docker run -it --rm --privileged -v $(pwd)/acestream.conf:/acestream.engine/acestream.conf -p8621:8621 -p6878:6878 -v /apps/acestream/playlist:/var/www/html/ acestream-arm
 ```
 
 ## How to play
