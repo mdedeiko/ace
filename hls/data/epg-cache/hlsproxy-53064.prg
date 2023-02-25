@@ -1,0 +1,24 @@
+20230221210000,<programme start="20230222000000 +0300" stop="20230222083000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">Ночь. Мир в это время</title></programme>
+20230222053000,<programme start="20230222083000 +0300" stop="20230222130000 +0300" channel="hlsproxy-53064"><title lang="ru">Рассветы LIVE. Там, где сейчас утро</title></programme>
+20230222100000,<programme start="20230222130000 +0300" stop="20230222180000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">День! Проверьте мировое время в разных городах планеты</title></programme>
+20230222150000,<programme start="20230222180000 +0300" stop="20230223000000 +0300" channel="hlsproxy-53064"><title lang="ru">Закаты LIVE. Там, где сейчас вечер</title></programme>
+20230222210000,<programme start="20230223000000 +0300" stop="20230223083000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">Ночь. Мир в это время</title></programme>
+20230223053000,<programme start="20230223083000 +0300" stop="20230223130000 +0300" channel="hlsproxy-53064"><title lang="ru">Рассветы LIVE. Там, где сейчас утро</title></programme>
+20230223100000,<programme start="20230223130000 +0300" stop="20230223180000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">День! Проверьте мировое время в разных городах планеты</title></programme>
+20230223150000,<programme start="20230223180000 +0300" stop="20230224000000 +0300" channel="hlsproxy-53064"><title lang="ru">Закаты LIVE. Там, где сейчас вечер</title></programme>
+20230223210000,<programme start="20230224000000 +0300" stop="20230224083000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">Ночь. Мир в это время</title></programme>
+20230224053000,<programme start="20230224083000 +0300" stop="20230224130000 +0300" channel="hlsproxy-53064"><title lang="ru">Рассветы LIVE. Там, где сейчас утро</title></programme>
+20230224100000,<programme start="20230224130000 +0300" stop="20230224180000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">День! Проверьте мировое время в разных городах планеты</title></programme>
+20230224150000,<programme start="20230224180000 +0300" stop="20230225000000 +0300" channel="hlsproxy-53064"><title lang="ru">Закаты LIVE. Там, где сейчас вечер</title></programme>
+20230224210000,<programme start="20230225000000 +0300" stop="20230225083000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">Ночь. Мир в это время</title></programme>
+20230225053000,<programme start="20230225083000 +0300" stop="20230225130000 +0300" channel="hlsproxy-53064"><title lang="ru">Рассветы LIVE. Там, где сейчас утро</title></programme>
+20230225100000,<programme start="20230225130000 +0300" stop="20230225180000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">День! Проверьте мировое время в разных городах планеты</title></programme>
+20230225150000,<programme start="20230225180000 +0300" stop="20230226000000 +0300" channel="hlsproxy-53064"><title lang="ru">Закаты LIVE. Там, где сейчас вечер</title></programme>
+20230225210000,<programme start="20230226000000 +0300" stop="20230226083000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">Ночь. Мир в это время</title></programme>
+20230226053000,<programme start="20230226083000 +0300" stop="20230226130000 +0300" channel="hlsproxy-53064"><title lang="ru">Рассветы LIVE. Там, где сейчас утро</title></programme>
+20230226100000,<programme start="20230226130000 +0300" stop="20230226180000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">День! Проверьте мировое время в разных городах планеты</title></programme>
+20230226150000,<programme start="20230226180000 +0300" stop="20230227000000 +0300" channel="hlsproxy-53064"><title lang="ru">Закаты LIVE. Там, где сейчас вечер</title></programme>
+20230226210000,<programme start="20230227000000 +0300" stop="20230227083000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">Ночь. Мир в это время</title></programme>
+20230227053000,<programme start="20230227083000 +0300" stop="20230227130000 +0300" channel="hlsproxy-53064"><title lang="ru">Рассветы LIVE. Там, где сейчас утро</title></programme>
+20230227100000,<programme start="20230227130000 +0300" stop="20230227180000 +0300" channel="hlsproxy-53064"><category lang="ru">Новости</category><title lang="ru">День! Проверьте мировое время в разных городах планеты</title></programme>
+20230227150000,<programme start="20230227180000 +0300" stop="20230228000000 +0300" channel="hlsproxy-53064"><title lang="ru">Закаты LIVE. Там, где сейчас вечер</title></programme>

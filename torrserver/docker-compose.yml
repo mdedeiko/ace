@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  torrserver:
+    image: ghcr.io/yourok/torrserver:latest
+    container_name: torrservermatrix
+    volumes:
+      - /tmp/storage/srv/config/torserver/db:/torrserver/db
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - 8090:8090
+    restart: unless-stopped

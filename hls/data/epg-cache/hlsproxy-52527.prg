@@ -1,0 +1,4 @@
+20230223180000,<programme start="20230223210000 +0300" stop="20230225203000 +0300" channel="hlsproxy-52527"><desc lang="ru">Live Handball: LIQUI MOLY HBL</desc><title lang="ru">LIVE! Live Handball: LIQUI MOLY HBL</title></programme>
+20230225173000,<programme start="20230225203000 +0300" stop="20230225233000 +0300" channel="hlsproxy-52527"><desc lang="ru">Live Eishockey: NHL</desc><title lang="ru">LIVE! Live Eishockey: NHL</title></programme>
+20230225203000,<programme start="20230225233000 +0300" stop="20230226180000 +0300" channel="hlsproxy-52527"><desc lang="ru">Live Eishockey: NHL</desc><title lang="ru">LIVE! Live Eishockey: NHL</title></programme>
+20230226150000,<programme start="20230226180000 +0300" stop="20230228193000 +0300" channel="hlsproxy-52527"><desc lang="ru">Live Handball: LIQUI MOLY HBL</desc><title lang="ru">LIVE! Live Handball: LIQUI MOLY HBL</title></programme>

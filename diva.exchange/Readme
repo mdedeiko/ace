@@ -1,0 +1,6 @@
+docker pull divax/i2p:current-i2p-tor
+
+docker run --env PORT_TOR=9950 --env PORT_HTTP_PROXY=4544 --env ENABLE_HTTPPROXY=1 -p 7170:7070 -p 4544:4444 -p 9950:9050 -p 8080:8080 -d --name i2p-tor divax/i2p:current-i2p-tor
+
+
+sudo curl -x GET http://omt56v4jxa4hurbwk44vqbbcwn3eavuynyc24c25cy7grucjh24q.b32.i2p/trash/ttv-list/ace.all.iproxy.m3u\?ip\=192.168.0.31:6878\&format\=http --proxy 127.0.0.1:4544 --output ace.all.player.m3u

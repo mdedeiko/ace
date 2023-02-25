@@ -1,0 +1,929 @@
+#EXTM3U
+#EXTINF:-1,1. Miras HD [ other ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3eb8e56a4c434da5df780fc94c704e4d7e7ba42f
+#EXTINF:-1,2. Мир HD [ TV; ; entertaining; movies ] 2023-02-25 15:56:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4a82e188d84804693062e541917a81020a34b068
+#EXTINF:-1,3. Мир HD [ entertaining; movies; tv ] 2023-02-25 15:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=eff480eb00a232202f1773bcdb3d79511d16ddc5
+#EXTINF:-1,4. Мир HD [ tv; entertaining; movies ] 2023-02-25 13:00:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2432f7fba2875bf0c6e273be8e14b333d5390db0
+#EXTINF:-1,5. ТНТ HD [ entertaining; tv ] 2023-02-25 18:14:02 a=0.875
+http://192.168.0.136:6878/ace/getstream?infohash=2d8e6c756c8b102ea2f9ecd9f2757afba4eb9d7d
+#EXTINF:-1,6. ТНТ HD [ entertaining ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=41d9e317086d520a3497b8bcc3a5dd455c235d64
+#EXTINF:-1,7. ТНТ HD [ entertaining; tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b843ac99855a2bfb1fb9598c93f65d8172f66e78
+#EXTINF:-1,8. НТВ HD [ entertaining; movies ] 2023-02-25 18:14:02 a=0.75
+http://192.168.0.136:6878/ace/getstream?infohash=4df0804ac56de1a874f31a53a53901284c0ea987
+#EXTINF:-1,9. Звезда HD [ tv; entertaining ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9e676bd14c742551dca7e75c18e57602f795edf0
+#EXTINF:-1,10. Звезда HD [ entertaining; tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=8905ae2f502880f2f2aa56c3209239e7f4e0bf73
+#EXTINF:-1,11. ТВ3 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=39060ebeb35100ce5189b85365894cb93daa3cbf
+#EXTINF:-1,12. Kronehit HD [ tv; music ] 2023-02-25 17:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=006af4935192fa7e41ed880dcd5ce81961a1f99e
+#EXTINF:-1,13. Kronehit HD [ ; music ] 2023-02-25 09:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e3e224a5e41199e37a7907e66d6973ceefd318b9
+#EXTINF:-1,14. Akudji HD [ Movies ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2b65cbc05d0ebd9b4a508492de4651f9751224a9
+#EXTINF:-1,15. 1 HD [ music ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a39671c9f63410bbe115bf1a0be6db3176a26a4f
+#EXTINF:-1,16. VTC2 HD [ informational ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e51e80743b60d5510107943ef036bb6937be424b
+#EXTINF:-1,17. VTC5 HD [ informational ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=d9faa1d4a195cdf8fcd3f19a5a739e559d98cf58
+#EXTINF:-1,18. VTC8 HD [ informational ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=21de7ed3bc78dba5a2f36006c5ee049820b775df
+#EXTINF:-1,19. VTV4 HD [ series ] 2023-02-25 17:07:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=d50673cecfb5a54904a528d3a274a4a955280e76
+#EXTINF:-1,20. Астрахань.Ru HD [ tv ] 2023-02-25 13:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=d7d6aacd0f937e48ab3fe92f8929797159c544ac
+#EXTINF:-1,21. CTPK HD [ movies ] 2023-02-24 22:21:02 a=1 b=1500000
+http://192.168.0.136:6878/ace/getstream?infohash=0464e3f4c1f4caa0cd7316e9619560aea0ac0835
+#EXTINF:-1,22. JOJ HD [ tv ] 2023-02-24 14:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b324df9fcb55ca2659ce3d844c30ced5a173805f
+#EXTINF:-1,23. Telemax HD [ TV ] 2023-02-24 12:07:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=031990d0078640bd3df001880a00e9c63e40c351
+#EXTINF:-1,24. Yaslyk HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2f0d98a3a1d48775654ed6d808b730e74520a9b9
+#EXTINF:-1,25. Qazsport HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=dadd86861b7c1361b8d393f32dba25c1d3043baf
+#EXTINF:-1,26. PZN HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=675b91ce9252c1e6aa2c7294bc7cebfa5b692f07
+#EXTINF:-1,27. TV1000 HD 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f7301c35afa5dfe85cc36baedee19a0abc7da9f9
+#EXTINF:-1,28. Пятница HD [ entertaining ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c90df58e98b36c927f7372424b624de54e3496aa
+#EXTINF:-1,29. Fashion HD [ tv; entertaining; educational; fashion ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c254202b3365455d45198ab4c1b4a6a6053f1d97
+#EXTINF:-1,30. VTV2 HD [ series ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=acf0ef7bb3cdc3773655426ddd1c53e71edf1975
+#EXTINF:-1,31. VTV9 HD [ informational ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=550afdfb0676d7b9afdcb1bd7e63356e257ded35
+#EXTINF:-1,32. THVL2 HD [ tv ] 2023-02-25 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=5181d0e3f513834efda9b7a562a41c9ad4425fc5
+#EXTINF:-1,33. VTC7 HD [ movies ] 2023-02-25 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e05fdeefe96a3eebbad4bd8e0a7bb8170d980b60
+#EXTINF:-1,34. VTC9 HD [ informational ] 2023-02-25 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c33815a890bc671d803b1ca81aba4c6ec08eeab4
+#EXTINF:-1,35. VTV8 HD [ series ] 2023-02-25 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=993cb0371a2f3014bc77b82253c4880bae8e94bb
+#EXTINF:-1,36. KIX HD [ movies ] 2023-02-25 17:07:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=13ee4bbb9b12c154d42922aac6f149c510394783
+#EXTINF:-1,37. VTC16 HD [ informational ] 2023-02-25 17:07:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=eed03c2a3eade7263c7bc985bb861a9dba241553
+#EXTINF:-1,38. Планета HD [ tv; educational ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=fbe3b3c4813c3b4203fe8ce02c3e44abff5e3129
+#EXTINF:-1,39. Между.Net HD [ tv ] 2023-02-25 00:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3383abc6d188535de9056467ecda6da7a2e450aa
+#EXTINF:-1,40. Asgabat HD [ other ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f738a51006b11db0a577a3fde81ab999ab1e9557
+#EXTINF:-1,41. ANIXE HD [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1ff08928f4b8c4e4ba193bbd54dcf522c29e67ee
+#EXTINF:-1,42. CNA HD [ informational ] 2023-02-24 23:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ad79254b1abbd8cc5d0fc5c8418356eddd3cb717
+#EXTINF:-1,43. Матч! HD [ sport ] 2023-02-25 18:14:02 a=0.9411764705882353
+http://192.168.0.136:6878/ace/getstream?infohash=340766185fed57bd8f91c1c52c254a560fca7e83
+#EXTINF:-1,44. 2x2 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=eb10fe21c31546e26bb970747c35c93c77769063
+#EXTINF:-1,45. Остросюжетное HD [ movies ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=0a35d69156ddb5100326eed7e851b52d89d340a5
+#EXTINF:-1,46. Остросюжетное HD [ movies ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3e33bc49567ccec895af50dec09a23610bdf8f4a
+#EXTINF:-1,47. Дагестан HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4de00fb550e2dbd0d48cb5108926f25ef0647a12
+#EXTINF:-1,48. TVR3 HD [ movies ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f6f3027190d8f997c1b2cee8aeb068e62cf9d9e1
+#EXTINF:-1,49. Оплoт HD [ tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3cb9b1bbf7f8bcf4df222329d0fa7828a5ec1f03
+#EXTINF:-1,50. THVL4 HD [ tv ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=760c77fde3653a4ddd2ab393a31a6fbbb9ce66e1
+#EXTINF:-1,51. VTV7 HD [ series ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=49166b0f6915ccfdca123aa336f91af723ce118f
+#EXTINF:-1,52. THVL3 HD [ tv ] 2023-02-25 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=cbd6f0202cc1e191f20b2d1df2344ca8f6956d24
+#EXTINF:-1,53. VTC6 HD [ informational ] 2023-02-25 17:07:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=cde24fb378132b661db8f7d23295e7fe10cf6b64
+#EXTINF:-1,54. БелСат HD [ tv ] 2023-02-25 15:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a3c0b824c6102a122ba1a38e23ddcf9c8e3c5a88
+#EXTINF:-1,55. 360 HD [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=daaf59bd92b54dae87c1ce64e00e51829808ae06
+#EXTINF:-1,56. Суббота HD [ tv ] 2023-02-25 12:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=57dca0cd3af01ee8a6c41a43a84bbe43dbcd0b98
+#EXTINF:-1,57. myZen.tv HD [ Спорт|HD ] 2023-02-23 16:42:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9f7a37425d3f7c8033d2ba2de043bb4149bcbc1d
+#EXTINF:-1,58. Дорама HD [ tv; movies ] 2023-02-23 09:00:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=849c5adfe383d6548048aaed78c1b5543a5e70fe
+#EXTINF:-1,59. BCU Action HD [RU] [ movies ] 2023-02-25 18:20:27 a=1 b=610309
+http://192.168.0.136:6878/ace/getstream?infohash=ac82e6570ec2137e9e56dcefa5bdc54ff790bc54
+#EXTINF:-1,60. Eurosport 1 HD [DE] [ regional; sport ] 2023-02-25 18:20:25 a=1 b=556778
+http://192.168.0.136:6878/ace/getstream?infohash=467a9ad90a4fcdcee8e072075d3a2c4748b55792
+#EXTINF:-1,61. Discovery Science HD [RU] [ educational; movies ] 2023-02-25 18:20:04 a=1 b=648163
+http://192.168.0.136:6878/ace/getstream?infohash=96c737bd9490070829f18e7006336ba67270d57d
+#EXTINF:-1,62. ТНТ HD [RU] [ regional; entertaining ] 2023-02-25 18:20:24 a=1 b=489215
+http://192.168.0.136:6878/ace/getstream?infohash=a6169d01fb2b8a62b45857666946732773c651d1
+#EXTINF:-1,63. History HD [RU] [ educational ] 2023-02-25 18:20:10 a=1 b=602017
+http://192.168.0.136:6878/ace/getstream?infohash=4f7be698925e8df0bc338170a81c390d3cb391ae
+#EXTINF:-1,64. BCU Criminal HD [RU] [ movies ] 2023-02-25 18:20:27 a=1 b=710937
+http://192.168.0.136:6878/ace/getstream?infohash=b987e76986be71e070b7a3c8516a3beef348b9c7
+#EXTINF:-1,65. BCU Сваты HD [RU] [ movies ] 2023-02-25 18:20:12 a=1 b=352470
+http://192.168.0.136:6878/ace/getstream?infohash=0c9f0b3d557692321e2b3533f066a326edfdab9d
+#EXTINF:-1,66. Премиальное HD [RU] [ movies ] 2023-02-25 18:20:12 a=1 b=560260
+http://192.168.0.136:6878/ace/getstream?infohash=c9f1505f9c0597424e0c595edbe441c1780a8b12
+#EXTINF:-1,67. National Geographic HD [RU] [ educational; documentaries ] 2023-02-25 18:20:04 a=1 b=470614
+http://192.168.0.136:6878/ace/getstream?infohash=1a6c974216f9305c02fb92962575f32ce85030a3
+#EXTINF:-1,68. BCU Kinozakaz HD [RU] [ movies ] 2023-02-25 18:20:26 a=1 b=658467
+http://192.168.0.136:6878/ace/getstream?infohash=e51c5d8b3f61796fbe0fca332c5bf13cf0f9ef84
+#EXTINF:-1,69. Камеди HD [RU] [ movies ] 2023-02-25 18:20:15 a=1 b=587125
+http://192.168.0.136:6878/ace/getstream?infohash=9f1c19be4fa27db2bc9789252240296d2cc66b54
+#EXTINF:-1,70. BCU Kinorating HD [RU] [ movies ] 2023-02-25 18:20:13 a=1 b=656387
+http://192.168.0.136:6878/ace/getstream?infohash=28c8f0bb16a323db3a4b6189cd3fb35d1f57a736
+#EXTINF:-1,71. BCU Survival HD [RU] [ movies ] 2023-02-25 18:20:16 a=1 b=520499
+http://192.168.0.136:6878/ace/getstream?infohash=ac539b6110a210c6e6fcef26a61170b05f01888e
+#EXTINF:-1,72. ZDF HD [DE] [ regional ] 2023-02-25 18:20:15 a=1 b=2239730
+http://192.168.0.136:6878/ace/getstream?infohash=1f85786caa98c804c916c96fdb6054aa098053aa
+#EXTINF:-1,73. Страшное HD [RU] [ movies ] 2023-02-25 18:20:24 a=1 b=571590
+http://192.168.0.136:6878/ace/getstream?infohash=9ac637b44ab67b62d2e195c2e2e15178f96cb548
+#EXTINF:-1,74. ORF 1 HD [DE] [ regional ] 2023-02-25 18:20:23 a=1 b=1544000
+http://192.168.0.136:6878/ace/getstream?infohash=1d2dec89060134f7227327d37d47aa45776bbf35
+#EXTINF:-1,75. Eurosport 2 HD [PL] [ regional; movies; sport ] 2023-02-25 18:20:19 a=1 b=847044
+http://192.168.0.136:6878/ace/getstream?infohash=a9fc65ae6e7b537f106c07471b7a66b2cbc87069
+#EXTINF:-1,76. Моя планета HD [RU] [ educational ] 2023-02-25 18:20:12 a=1 b=502347
+http://192.168.0.136:6878/ace/getstream?infohash=5013186c2b6b0ce4d813cd8bcf13b6a7ecec1e48
+#EXTINF:-1,77. UFC HD [RU] [ sport ] 2023-02-25 18:20:12 a=1 b=556258
+http://192.168.0.136:6878/ace/getstream?infohash=72b8c093be3c3e3c434c723ee93af0d1d07a7cbf
+#EXTINF:-1,78. Amedia premium HD [RU] [ movies ] 2023-02-25 18:20:06 a=1 b=578039
+http://192.168.0.136:6878/ace/getstream?infohash=bd3909c04c1086803526c7b06a8266654a70e482
+#EXTINF:-1,79. Ultra HD Cinema [RU] [ regional; kids; movies ] 2023-02-25 18:20:02 a=1 b=3297577
+http://192.168.0.136:6878/ace/getstream?infohash=4447d0a31556f25b0ebce1bac9c8f60c669bc68d
+#EXTINF:-1,80. MTV Live HD [RU] [ music; entertaining; sport ] 2023-02-25 18:20:27 a=1 b=571946
+http://192.168.0.136:6878/ace/getstream?infohash=9ddda51034375eb93505c076d4437064abdf2dcf
+#EXTINF:-1,81. Polsat News HD [PL] [ regional ] 2023-02-25 18:20:33 a=1 b=646686
+http://192.168.0.136:6878/ace/getstream?infohash=787bfae1680aeba24aaa5481242cc8d566f0fe30
+#EXTINF:-1,82. FOX HD [PL] [ regional; entertaining; movies; sport ] 2023-02-25 18:20:31 a=1 b=614253
+http://192.168.0.136:6878/ace/getstream?infohash=9d88fca3233597b6a150199e430ec0c67bfb1a23
+#EXTINF:-1,83. Super Polsat HD [PL] [ regional ] 2023-02-25 18:20:30 a=1 b=627584
+http://192.168.0.136:6878/ace/getstream?infohash=c856decf73393fa260e91ae2971bf6ef7e89ae28
+#EXTINF:-1,84. Eurosport360 HD 8 [DE] [ regional ] 2023-02-25 18:20:22 a=1 b=742884
+http://192.168.0.136:6878/ace/getstream?infohash=fcaa5efc8d9b2c27f409a8c1c8b7a05b55b8d6e4
+#EXTINF:-1,85. Sky Documentaries HD [DE] [ regional ] 2023-02-25 18:20:16 a=1 b=1965959
+http://192.168.0.136:6878/ace/getstream?infohash=f00f2c3c0fdf75e6ca8418a422c8e8a8a620879f
+#EXTINF:-1,86. Fast&Funbox HD [RU] [ sport ] 2023-02-25 18:20:14 a=1 b=573617
+http://192.168.0.136:6878/ace/getstream?infohash=866791507f0bbac7fdf47293778bc4e2f5520364
+#EXTINF:-1,87. Spiegel Geschichte HD [DE] [ regional ] 2023-02-25 18:20:09 a=1 b=1248961
+http://192.168.0.136:6878/ace/getstream?infohash=b404e97691d1bf2bcecba753755c709bfd9e89b0
+#EXTINF:-1,88. HISTORY HD [DE] [ regional; educational ] 2023-02-25 18:20:04 a=1 b=406980
+http://192.168.0.136:6878/ace/getstream?infohash=4583aac86a81d1ffc1c46dd270b7410e036ef16f
+#EXTINF:-1,89. Хоккейный HD [RU] [ sport ] 2023-02-25 18:20:04 a=1 b=584444
+http://192.168.0.136:6878/ace/getstream?infohash=8b7c300e60486a80c1e25bc5ecd693533fca52a4
+#EXTINF:-1,90. Sky Crime HD [DE] [ regional; movies ] 2023-02-25 18:20:36 a=1 b=919647
+http://192.168.0.136:6878/ace/getstream?infohash=aa03362a82d2e0e712ee1e845102cd72173bc0ca
+#EXTINF:-1,91. Anixe HD [DE] [ regional ] 2023-02-25 18:20:35 a=1 b=558299
+http://192.168.0.136:6878/ace/getstream?infohash=339c1b8b0968cb5a5bf249fe57fa3cfe9a028178
+#EXTINF:-1,92. Kuchnia+ HD [PL] [ regional ] 2023-02-25 18:20:28 a=1 b=778992
+http://192.168.0.136:6878/ace/getstream?infohash=021b6d36754b8ccfd800760eb7682003231bb435
+#EXTINF:-1,93. MDR HD [DE] [ regional ] 2023-02-25 18:20:21 a=1 b=1778590
+http://192.168.0.136:6878/ace/getstream?infohash=45b441afd42f244ab324654db18d0b6d85f028f6
+#EXTINF:-1,94. BBC HD [PL] [ regional; sport ] 2023-02-25 18:20:20 a=1 b=513999
+http://192.168.0.136:6878/ace/getstream?infohash=69a5417b00a536d785a43407a6b0be4398093e23
+#EXTINF:-1,95. Eurosport360 HD 9 [DE] [ regional ] 2023-02-25 18:20:20 a=1 b=1528881
+http://192.168.0.136:6878/ace/getstream?infohash=a92cd18904ffa92e50052925e0379049a36bb07c
+#EXTINF:-1,96. Nat Geographic HD [DE] [ regional; educational; documentaries ] 2023-02-25 18:20:20 a=1 b=1263040
+http://192.168.0.136:6878/ace/getstream?infohash=b80d82e0bd708417c735f16fc27e15184a8855da
+#EXTINF:-1,97. Polsat 2 HD [PL] [ regional ] 2023-02-25 18:20:19 a=1 b=645743
+http://192.168.0.136:6878/ace/getstream?infohash=fd0c1a0658073c78ed1ed619e335ba08824f0f3f
+#EXTINF:-1,98. BILD HD [DE] [ regional ] 2023-02-25 18:20:18 a=1 b=1135916
+http://192.168.0.136:6878/ace/getstream?infohash=a64aaebd6d28d68901046b6400f5ae81ec45057d
+#EXTINF:-1,99. Sky Nature HD [DE] [ regional ] 2023-02-25 18:20:16 a=1 b=1300889
+http://192.168.0.136:6878/ace/getstream?infohash=eb398d0caef8bec89e8d1884aca2129be011bb0d
+#EXTINF:-1,100. Eurosport360 HD 3 [DE] [ regional ] 2023-02-25 18:20:13 a=1 b=916606
+http://192.168.0.136:6878/ace/getstream?infohash=6730acfdda36c60d8a09105b03b4c88a0571b72d
+#EXTINF:-1,101. FightBox HD [RU] [ sport ] 2023-02-25 18:20:09 a=1 b=601807
+http://192.168.0.136:6878/ace/getstream?infohash=80b395de2f07983ac324d1160711487aefaa7eaa
+#EXTINF:-1,102. VOX HD [DE] [ regional ] 2023-02-25 18:20:08 a=1 b=609323
+http://192.168.0.136:6878/ace/getstream?infohash=962ad82800c4e3614a231fa037b3f4ce5c9de1cb
+#EXTINF:-1,103. Sundance Channel HD [PL] [ regional ] 2023-02-25 18:20:02 a=1 b=614831
+http://192.168.0.136:6878/ace/getstream?infohash=70a6e0b697fc65f875209510e91d45b5d55c18d3
+#EXTINF:-1,104. TVR International HD [ entertaining ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=57a3ef1023d4486092d45c9fbdd62966662acd5b
+#EXTINF:-1,105. AAJ TAK HD [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=6810bbec94844fc91b7e437ab7995b96de3a76cd
+#EXTINF:-1,106. ATV HD -4 [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=62659d4c35905423294f481e1c0b9636f0f58386
+#EXTINF:-1,107. TRANS TV HD [ tv ] 2023-02-25 14:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1f9789af12c44d9d35fdcf4a63b2c748cc55e86b
+#EXTINF:-1,108. EL PINGÜINO TV HD [ TV ] 2023-02-25 01:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=fa4eb62d03708c8e52e0517470c5215b5028177a
+#EXTINF:-1,109. ATV HD -2 [ tv ] 2023-02-24 19:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=affc1cf72620a3da94688a0a67fa439f050c7c41
+#EXTINF:-1,110. Arryadia Sport HD (Marocco) [ sport ] 2023-02-25 18:14:02 a=0.8333333333333334
+http://192.168.0.136:6878/ace/getstream?infohash=1c6d430c9d6ef715ece230368f1c30d17516bd26
+#EXTINF:-1,111. RU: SPORT HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=815fb5c596d67a7b23670f5af2c01c5a3a672eed
+#EXTINF:-1,112. RedTraffic Cuckold HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b4e181e30b3d6a45440fdce7bf39897071cf5e0c
+#EXTINF:-1,113. RedTraffic Latina HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=713ac380cf0dc0a2fdd4022fa8a711c71319bfde
+#EXTINF:-1,114. RedTraffic Lesbian HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e809d53ce9fbd5190505ee4447d1717e6ea7a645
+#EXTINF:-1,115. RedTraffic POV HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=d96e298409de1ccd7a5d02224e76e450ea82ca3f
+#EXTINF:-1,116. RedTraffic Pornstar HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f4d6862e0025ef86533169f7aa316960f6daecd4
+#EXTINF:-1,117. History 2 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ec046f004a4ad98259e4c0c869d0af25d537ca1b
+#EXTINF:-1,118. Rai 3 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4376b1c9c779062b70a0d15cbd80f186229a0747
+#EXTINF:-1,119. TVG Evento 5 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=88c290d1eea45ce6e82b6159084b7d9db2540431
+#EXTINF:-1,120. Новороссия ТВ HD [ TV ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=45b99d3a9881ee8185a9e8f6e1152b729cabf7dc
+#EXTINF:-1,121. Red Bull TV HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=07424608b4fb7370666b7290450f734ef7ce3625
+#EXTINF:-1,122. Red Bull TV HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9bcc5b1d794c6fa2d269b088d8bb63230f69190f
+#EXTINF:-1,123. Red Bull TV HD [ tv ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=bda949c98a4de2712298fa7c7eae280fc981b814
+#EXTINF:-1,124. Red Bull TV HD [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=30d9fd55af2cc47b11bf4dc85b79a9bed7c4ac60
+#EXTINF:-1,125. Red Bull TV HD [ tv ] 2023-02-25 14:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=87756e6fdaac5d70a8c917c3c58835d891178dbb
+#EXTINF:-1,126. Red Bull TV HD [ tv ] 2023-02-24 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1b7e277946766834d0f034532e0b5ab1764732ee
+#EXTINF:-1,127. VIP Comedy HD [ movies ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=8d60cf411b7314326908c62cd2a8314d02cb7542
+#EXTINF:-1,128. VIP Comedy HD [ movies; tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c16a7c5c76ad2b62ecc812b925119655511bfc57
+#EXTINF:-1,129. 7 Канал HD (Одесса) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4b07ab09c805a8fc60d6b03297a503a9db231ed4
+#EXTINF:-1,130. BOX Gangster HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=358f2a7588e3aa9d99bde8ac43df76ca7d3fbc4a
+#EXTINF:-1,131. Nat Geo Wild HD [ tv; educational ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a8fff7f9ec863a8c3f9f8265f434bba3359656ba
+#EXTINF:-1,132. Turkmenistan Sport HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3899abf825359619be36271d2677ef037684e135
+#EXTINF:-1,133. Север ТВ HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=665039466d5ec00e09e0deaa5f9e226055c5a8ca
+#EXTINF:-1,134. Publika TV HD (Mold) [ tv ] 2023-02-25 17:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=703c68faa933cfc7397db8f66fe132c3e2809350
+#EXTINF:-1,135. XITE NL HD 2023-02-25 17:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=46a97b5b2554b7870b7ec23e6086c70a863d4c2a
+#EXTINF:-1,136. Nrwision TV HD 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9e510340d619da72e6c6251d14ce45864493c196
+#EXTINF:-1,137. Viva Russia HD [ music; tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2fa3bcd00d9bc6f26857ad80eb016d1f45d377c5
+#EXTINF:-1,138. Лучшие моменты ЛЧ HD [ tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1adcc7c6012e7a67f376c4d251039f1f1da39c4b
+#EXTINF:-1,139. Междуреченск 4 [HD] [ tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=7ced67e26eeed59a18c31045451beaf4fb1be993
+#EXTINF:-1,140. Fresh Cinema HD 2023-02-25 17:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=5bbf946ebd9030357986fe69a90aec44d2ad9f99
+#EXTINF:-1,141. VTV5 HD 1 [ series ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=113b842b0b941c8d4c72ff2e0fb43664730f4e21
+#EXTINF:-1,142. Fresh Series HD 2023-02-25 16:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=583dfd45cace2246d214730f7e2e6666f20a6d1f
+#EXTINF:-1,143. СК1 HD (Житомир) [ tv ] 2023-02-25 16:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c5e921aaf7b25570e06f37b595339723a4af950c
+#EXTINF:-1,144. Música HD www.achoAPPS.com superior [ tv ] 2023-02-25 15:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=07188b89344befce7193b1089a92e3cbc3f9af76
+#EXTINF:-1,145. Артек Речной HD [ tv ] 2023-02-25 15:00:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=7697cca7e79c4c208520ade6022cb4c1ca03faa6
+#EXTINF:-1,146. Fresh Comedy HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b33492fd74254de5ec0bfd651173912f4bb2a16e
+#EXTINF:-1,147. Fresh Premiere HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3ce822d3a5016a44f6995ce79f7c6a7996710f0e
+#EXTINF:-1,148. Fresh Romantic HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=16ca38d69735090e0de2c4d35032de6ed470d114
+#EXTINF:-1,149. Horizon TV HD [ tv ] 2023-02-25 14:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1da6dc160feb32607ff914dbce51ab670ad2cf30
+#EXTINF:-1,150. Подольск - ТЦ Люкс [HD] [ tv ] 2023-02-25 13:42:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ac4145634f1c4ab13a462e2b2a26f23ce19b5b6e
+#EXTINF:-1,151. Solidaria TV HD [ tv ] 2023-02-25 11:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=df841e1623ed6c7b97a55263d7bd8e25836c638b
+#EXTINF:-1,152. Череповец 9 [HD] [ tv ] 2023-02-25 10:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=27488122102eb1f79fac4801a8aa13fde39645cf
+#EXTINF:-1,153. Первый Тульский HD [ tv ] 2023-02-25 08:28:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=467fd7ce4ef1aeefd38f55a57b0cd3ee700e87f0
+#EXTINF:-1,154. Canal 3 HD [ tv ] 2023-02-24 23:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=13f13a8445091e1d9ce45a4720bc1d93b2e531ac
+#EXTINF:-1,155. CNN INDONESIA HD [ tv; informational ] 2023-02-24 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=8262000a94442fe440c835c9abece1e763d862ee
+#EXTINF:-1,156. Астрахань 24 HD [ tv ] 2023-02-24 00:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=61cb071697b8462bfe6ef991e5c1eb88e0f1009d
+#EXTINF:-1,157. Akit TV HD [ tv ] 2023-02-23 19:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=90b28f9c8711cdeab36521bd1147cd33df7c71d2
+#EXTINF:-1,158. Наша Сибирь HD [ tv ] 2023-02-23 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a0cc34324dd130db6145fbfd5e4824ab4393a12a
+#EXTINF:-1,159. Хабар 24 HD [ tv ] 2023-02-23 07:42:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=df2050b3563f6258ffbe0b07fdb3a9ba6b5a2144
+#EXTINF:-1,160. CGTN Русский HD [ tv ] 2023-02-22 14:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ff7c8c82f1f823453a0a073982765f8f96b811b4
+#EXTINF:-1,161. Ел Арна HD 2023-02-21 22:00:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=315a1ce108b98797dfa5303c5b98dc53cf0b3ebc
+#EXTINF:-1,162. Матч! ТВ HD [RU] [ sport ] 2023-02-25 18:20:07 a=1 b=1988618
+http://192.168.0.136:6878/ace/getstream?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c
+#EXTINF:-1,163. BCU Fantastic HD [RU] [ movies ] 2023-02-25 18:20:14 a=1 b=618985
+http://192.168.0.136:6878/ace/getstream?infohash=9aece1167d82d7f3fdc36493a11de28b45ed75bb
+#EXTINF:-1,164. Футбол HD [RU] [ sport ] 2023-02-25 18:20:11 a=1 b=485675
+http://192.168.0.136:6878/ace/getstream?infohash=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a
+#EXTINF:-1,165. BCU Catastrophe HD [RU] [ movies ] 2023-02-25 18:20:06 a=1 b=618159
+http://192.168.0.136:6878/ace/getstream?infohash=aeaeae9ce8696813734ee21c0713929f461cf371
+#EXTINF:-1,166. Матч! Игра HD [RU] [ movies; sport ] 2023-02-25 18:20:17 a=1 b=1138665
+http://192.168.0.136:6878/ace/getstream?infohash=20be180e057ac43660627ca9fe66eaa6bd6c1aee
+#EXTINF:-1,167. BCU Filmystic HD [RU] [ movies ] 2023-02-25 18:20:22 a=1 b=618309
+http://192.168.0.136:6878/ace/getstream?infohash=ead5111aea99166535f7d32fc6976c7c4a4c38d6
+#EXTINF:-1,168. VIASAT SPORT HD [RU] [ sport ] 2023-02-25 18:20:18 a=1 b=588758
+http://192.168.0.136:6878/ace/getstream?infohash=f6b7553df66ac4bffd4b3ead443b647322d1a7e0
+#EXTINF:-1,169. Остросюжетное HD [RU] [ movies ] 2023-02-25 18:20:03 a=1 b=538906
+http://192.168.0.136:6878/ace/getstream?infohash=da7e8d2f8d00e935946fb17a88d6eab62e7212ef
+#EXTINF:-1,170. Комедийное HD [RU] [ movies ] 2023-02-25 18:20:25 a=1 b=502472
+http://192.168.0.136:6878/ace/getstream?infohash=ac61a121998a3dcd1aa2a0bda6c8d757f89388af
+#EXTINF:-1,171. ESPN HD [US] [ sport ] 2023-02-25 18:20:19 a=1 b=689211
+http://192.168.0.136:6878/ace/getstream?infohash=0dca83a7cc9184893ff96ee2355874342fc8fd45
+#EXTINF:-1,172. BCU Marvel HD [RU] [ movies ] 2023-02-25 18:20:09 a=1 b=588147
+http://192.168.0.136:6878/ace/getstream?infohash=b437118a4f66ac71cd9b16e2d30b0aff7baf7541
+#EXTINF:-1,173. BCU History HD [RU] [ movies ] 2023-02-25 18:20:11 a=1 b=666923
+http://192.168.0.136:6878/ace/getstream?infohash=3a43c9534e29fe4bced0b6b52d84208e8731a1c6
+#EXTINF:-1,174. Наш Кинопоказ HD [RU] [ movies ] 2023-02-25 18:20:09 a=1 b=505112
+http://192.168.0.136:6878/ace/getstream?infohash=2344fa4304ac860f6469f03b1563b9332acefeb0
+#EXTINF:-1,175. Кинопоказ HD [RU] [ movies ] 2023-02-25 18:20:16 a=1 b=492442
+http://192.168.0.136:6878/ace/getstream?infohash=403a3d7707586a2639237ea4d441cc029459524c
+#EXTINF:-1,176. Конный мир HD [RU] [ movies; sport ] 2023-02-25 18:20:10 a=1 b=318678
+http://192.168.0.136:6878/ace/getstream?infohash=223585a877fa51808b5c6244b3f0591c82e84cbd
+#EXTINF:-1,177. BCU Kids HD [RU] [ kids ] 2023-02-25 18:20:37 a=1 b=645623
+http://192.168.0.136:6878/ace/getstream?infohash=8cee61d7252426713403bf5d12acbf5a742b30ba
+#EXTINF:-1,178. Hollywood HD [RU] [ movies ] 2023-02-25 18:20:13 a=1 b=591916
+http://192.168.0.136:6878/ace/getstream?infohash=2410ae82a0227b51843b4cf47260c14aa8b4503e
+#EXTINF:-1,179. Bollywood HD [RU] [ movies ] 2023-02-25 18:20:26 a=1 b=547488
+http://192.168.0.136:6878/ace/getstream?infohash=a64f487b491e1c0ad0be1af30383aba16411b8b6
+#EXTINF:-1,180. Animal Planet HD [RU] [ educational; music ] 2023-02-25 18:20:16 a=1 b=599543
+http://192.168.0.136:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+#EXTINF:-1,181. TVP Sport HD [PL] [ regional; sport ] 2023-02-25 18:20:16 a=1 b=1013429
+http://192.168.0.136:6878/ace/getstream?infohash=8356abd054c23015cfc1b1f187f8a7e30940b3f5
+#EXTINF:-1,182. Travel+Adventure HD [RU] [ educational ] 2023-02-25 18:20:04 a=1 b=582305
+http://192.168.0.136:6878/ace/getstream?infohash=6e96ec55341e3bf654d0c9335fffb43f0a7e46a2
+#EXTINF:-1,183. BCU Stars HD [RU] [ movies ] 2023-02-25 18:20:14 a=1 b=655770
+http://192.168.0.136:6878/ace/getstream?infohash=b51a7479bd0ba533ac322799f89a26dfb22dedb2
+#EXTINF:-1,184. Dikaya Rybalka HD [RU] [ educational ] 2023-02-25 18:20:11 a=1 b=540140
+http://192.168.0.136:6878/ace/getstream?infohash=46a0913a7a3ab1d6fa2e53c4889046fef06bdcf0
+#EXTINF:-1,185. BCU Cosmo HD [RU] [ movies ] 2023-02-25 18:20:06 a=1 b=854473
+http://192.168.0.136:6878/ace/getstream?infohash=a842fe2a71043c3e15e4ea6851af34aabf00dff1
+#EXTINF:-1,186. Наше крутое HD [RU] [ movies ] 2023-02-25 18:20:18 a=1 b=564231
+http://192.168.0.136:6878/ace/getstream?infohash=43457f20587e5837ff55c0b46ac549dfc155103a
+#EXTINF:-1,187. HD Life [RU] [ educational; movies ] 2023-02-25 18:20:03 a=1 b=392305
+http://192.168.0.136:6878/ace/getstream?infohash=44ffb1bd04a4aa2df86bbca0f29a714772a7abe1
+#EXTINF:-1,188. Eurosport 2 HD [DE] [ regional; movies; sport ] 2023-02-25 18:20:31 a=1 b=460069
+http://192.168.0.136:6878/ace/getstream?infohash=9510f65da1d8a4a2b7c972fdc2f1b19e2d468f2f
+#EXTINF:-1,189. BCU TruMotion HD [RU] [ movies ] 2023-02-25 18:20:09 a=1 b=779792
+http://192.168.0.136:6878/ace/getstream?infohash=bd9eab96495d0bc1b940afd7161455c2e69b9a24
+#EXTINF:-1,190. HBO 3 HD [PL] [ regional; movies ] 2023-02-25 18:20:16 a=1 b=644442
+http://192.168.0.136:6878/ace/getstream?infohash=05428860592e4947d4d6859cb327047ff600184f
+#EXTINF:-1,191. Футбольный HD [RU] [ sport ] 2023-02-25 18:20:02 a=1 b=1107948
+http://192.168.0.136:6878/ace/getstream?infohash=65ae3e0427ef14d9ef88f0183c011e6ff42ca062
+#EXTINF:-1,192. Travel Channel HD [RU] [ movies; educational ] 2023-02-25 18:20:28 a=1 b=559264
+http://192.168.0.136:6878/ace/getstream?infohash=cfa9d82af3e0853f5d461fbb964aa4bddce7419b
+#EXTINF:-1,193. Eureka HD [RU] [ educational ] 2023-02-25 18:20:14 a=1 b=561200
+http://192.168.0.136:6878/ace/getstream?infohash=8b7a9d0425fea08894d8bf6e213d16252d2a77c8
+#EXTINF:-1,194. VIVA HD [RU] [ music ] 2023-02-25 18:20:09 a=1 b=552814
+http://192.168.0.136:6878/ace/getstream?infohash=fb361b926b7211092010d6944fb5b70753ee19b2
+#EXTINF:-1,195. HBO HD [PL] [ regional; movies ] 2023-02-25 18:20:01 a=1 b=653061
+http://192.168.0.136:6878/ace/getstream?infohash=d82bf881231c114915379919a2afffaeb5eb5fee
+#EXTINF:-1,196. Das Erste HD [DE] [ regional ] 2023-02-25 18:20:11 a=1 b=1676301
+http://192.168.0.136:6878/ace/getstream?infohash=4f0cfef21aa4fe5e49a648792d8ee36a05f5a648
+#EXTINF:-1,197. FOX HD [RU] [ movies; entertaining; sport ] 2023-02-25 18:20:11 a=1 b=553185
+http://192.168.0.136:6878/ace/getstream?infohash=5e40d94899925654ba5baf7f9ede7db5e0c10ad7
+#EXTINF:-1,198. Наше Мужское HD [RU] [ movies ] 2023-02-25 18:20:11 a=1 b=508660
+http://192.168.0.136:6878/ace/getstream?infohash=2fcdf632729bef234bfe1048532be31fe261d2c3
+#EXTINF:-1,199. Fox Life HD [RU] [ movies ] 2023-02-25 18:20:10 a=1 b=587007
+http://192.168.0.136:6878/ace/getstream?infohash=d8b7a3f67305d65d0c75602eb7ec8e7f1df6b8b7
+#EXTINF:-1,200. BCU Kids+ HD [RU] [ kids ] 2023-02-25 18:20:35 a=1 b=604796
+http://192.168.0.136:6878/ace/getstream?infohash=c37f4c259b1a38e5cef0db764a0531dd2c706e60
+#EXTINF:-1,201. Глазами туриста HD [RU] [ educational ] 2023-02-25 18:20:25 a=1 b=482334
+http://192.168.0.136:6878/ace/getstream?infohash=db224b9e4979973e97a389a62c8259388ec3207e
+#EXTINF:-1,202. AXN HD [DE] [ regional; movies; music ] 2023-02-25 18:20:25 a=1 b=559013
+http://192.168.0.136:6878/ace/getstream?infohash=51aba262210dcea336693bfb47e39622615772ee
+#EXTINF:-1,203. Universal TV HD [DE] [ regional ] 2023-02-25 18:20:07 a=1 b=408791
+http://192.168.0.136:6878/ace/getstream?infohash=d097bf7b163188d148a2ae7bb2f974c984e1b293
+#EXTINF:-1,204. Приключения HD [RU] [ educational; movies ] 2023-02-25 18:20:06 a=1 b=565003
+http://192.168.0.136:6878/ace/getstream?infohash=9a7419d0e9ccf16b5c474cb9c80f3b5cc08d7872
+#EXTINF:-1,205. HR HD [DE] [ regional ] 2023-02-25 18:20:39 a=1 b=588048
+http://192.168.0.136:6878/ace/getstream?infohash=59b77253b685d67add66f93da387ee1f6f7a61cf
+#EXTINF:-1,206. Polsat Film HD [PL] [ regional ] 2023-02-25 18:20:38 a=1 b=598713
+http://192.168.0.136:6878/ace/getstream?infohash=f150493892e18605c5bf76984b87044f31562b6b
+#EXTINF:-1,207. RTL 2 HD [DE] [ regional ] 2023-02-25 18:20:38 a=1 b=705696
+http://192.168.0.136:6878/ace/getstream?infohash=c545a52a778252035d3f5b21aee47bf91f1eafe3
+#EXTINF:-1,208. Teletoon+ HD [PL] [ regional ] 2023-02-25 18:20:38 a=1 b=657909
+http://192.168.0.136:6878/ace/getstream?infohash=54c442a50798fed9e3ca78ff792666aeb0f4d892
+#EXTINF:-1,209. Cinemax HD [PL] [ regional; movies ] 2023-02-25 18:20:34 a=1 b=722342
+http://192.168.0.136:6878/ace/getstream?infohash=f30e1dd9b31db0833a7b896c81494aa0c204b814
+#EXTINF:-1,210. Ale Kino+ HD [PL] [ regional ] 2023-02-25 18:20:33 a=1 b=647217
+http://192.168.0.136:6878/ace/getstream?infohash=2df3bb38a0ad76b7b8459f8fae03be53f3eecd1f
+#EXTINF:-1,211. DMAX HD [DE] [ regional ] 2023-02-25 18:20:32 a=1 b=1555753
+http://192.168.0.136:6878/ace/getstream?infohash=46b0745f35cbc125ba35d4f363c0080164cc783b
+#EXTINF:-1,212. NDR HD [DE] [ regional ] 2023-02-25 18:20:32 a=1 b=589014
+http://192.168.0.136:6878/ace/getstream?infohash=6d6f6dec8fa0eb601994082037486d9a82785a55
+#EXTINF:-1,213. Sky Krimi HD [DE] [ regional ] 2023-02-25 18:20:31 a=1 b=346251
+http://192.168.0.136:6878/ace/getstream?infohash=68c5fca88e422b7bb69fecedce07add50fbec71f
+#EXTINF:-1,214. MTV Live HD [RU] [ music; entertaining; sport ] 2023-02-25 18:20:27 a=1 b=571946
+http://192.168.0.136:6878/ace/getstream?infohash=9ddda51034375eb93505c076d4437064abdf2dcf
+#EXTINF:-1,215. Polsat News HD [PL] [ regional ] 2023-02-25 18:20:33 a=1 b=646686
+http://192.168.0.136:6878/ace/getstream?infohash=787bfae1680aeba24aaa5481242cc8d566f0fe30
+#EXTINF:-1,216. FOX HD [PL] [ regional; entertaining; movies; sport ] 2023-02-25 18:20:31 a=1 b=614253
+http://192.168.0.136:6878/ace/getstream?infohash=9d88fca3233597b6a150199e430ec0c67bfb1a23
+#EXTINF:-1,217. Super Polsat HD [PL] [ regional ] 2023-02-25 18:20:30 a=1 b=627584
+http://192.168.0.136:6878/ace/getstream?infohash=c856decf73393fa260e91ae2971bf6ef7e89ae28
+#EXTINF:-1,218. Eurosport360 HD 8 [DE] [ regional ] 2023-02-25 18:20:22 a=1 b=742884
+http://192.168.0.136:6878/ace/getstream?infohash=fcaa5efc8d9b2c27f409a8c1c8b7a05b55b8d6e4
+#EXTINF:-1,219. Sky Documentaries HD [DE] [ regional ] 2023-02-25 18:20:16 a=1 b=1965959
+http://192.168.0.136:6878/ace/getstream?infohash=f00f2c3c0fdf75e6ca8418a422c8e8a8a620879f
+#EXTINF:-1,220. Fast&Funbox HD [RU] [ sport ] 2023-02-25 18:20:14 a=1 b=573617
+http://192.168.0.136:6878/ace/getstream?infohash=866791507f0bbac7fdf47293778bc4e2f5520364
+#EXTINF:-1,221. Spiegel Geschichte HD [DE] [ regional ] 2023-02-25 18:20:09 a=1 b=1248961
+http://192.168.0.136:6878/ace/getstream?infohash=b404e97691d1bf2bcecba753755c709bfd9e89b0
+#EXTINF:-1,222. HISTORY HD [DE] [ regional; educational ] 2023-02-25 18:20:04 a=1 b=406980
+http://192.168.0.136:6878/ace/getstream?infohash=4583aac86a81d1ffc1c46dd270b7410e036ef16f
+#EXTINF:-1,223. Хоккейный HD [RU] [ sport ] 2023-02-25 18:20:04 a=1 b=584444
+http://192.168.0.136:6878/ace/getstream?infohash=8b7c300e60486a80c1e25bc5ecd693533fca52a4
+#EXTINF:-1,224. Sky Crime HD [DE] [ regional; movies ] 2023-02-25 18:20:36 a=1 b=919647
+http://192.168.0.136:6878/ace/getstream?infohash=aa03362a82d2e0e712ee1e845102cd72173bc0ca
+#EXTINF:-1,225. Anixe HD [DE] [ regional ] 2023-02-25 18:20:35 a=1 b=558299
+http://192.168.0.136:6878/ace/getstream?infohash=339c1b8b0968cb5a5bf249fe57fa3cfe9a028178
+#EXTINF:-1,226. Kuchnia+ HD [PL] [ regional ] 2023-02-25 18:20:28 a=1 b=778992
+http://192.168.0.136:6878/ace/getstream?infohash=021b6d36754b8ccfd800760eb7682003231bb435
+#EXTINF:-1,227. MDR HD [DE] [ regional ] 2023-02-25 18:20:21 a=1 b=1778590
+http://192.168.0.136:6878/ace/getstream?infohash=45b441afd42f244ab324654db18d0b6d85f028f6
+#EXTINF:-1,228. BBC HD [PL] [ regional; sport ] 2023-02-25 18:20:20 a=1 b=513999
+http://192.168.0.136:6878/ace/getstream?infohash=69a5417b00a536d785a43407a6b0be4398093e23
+#EXTINF:-1,229. Eurosport360 HD 9 [DE] [ regional ] 2023-02-25 18:20:20 a=1 b=1528881
+http://192.168.0.136:6878/ace/getstream?infohash=a92cd18904ffa92e50052925e0379049a36bb07c
+#EXTINF:-1,230. Nat Geographic HD [DE] [ regional; educational; documentaries ] 2023-02-25 18:20:20 a=1 b=1263040
+http://192.168.0.136:6878/ace/getstream?infohash=b80d82e0bd708417c735f16fc27e15184a8855da
+#EXTINF:-1,231. Polsat 2 HD [PL] [ regional ] 2023-02-25 18:20:19 a=1 b=645743
+http://192.168.0.136:6878/ace/getstream?infohash=fd0c1a0658073c78ed1ed619e335ba08824f0f3f
+#EXTINF:-1,232. BILD HD [DE] [ regional ] 2023-02-25 18:20:18 a=1 b=1135916
+http://192.168.0.136:6878/ace/getstream?infohash=a64aaebd6d28d68901046b6400f5ae81ec45057d
+#EXTINF:-1,233. Sky Nature HD [DE] [ regional ] 2023-02-25 18:20:16 a=1 b=1300889
+http://192.168.0.136:6878/ace/getstream?infohash=eb398d0caef8bec89e8d1884aca2129be011bb0d
+#EXTINF:-1,234. Eurosport360 HD 3 [DE] [ regional ] 2023-02-25 18:20:13 a=1 b=916606
+http://192.168.0.136:6878/ace/getstream?infohash=6730acfdda36c60d8a09105b03b4c88a0571b72d
+#EXTINF:-1,235. FightBox HD [RU] [ sport ] 2023-02-25 18:20:09 a=1 b=601807
+http://192.168.0.136:6878/ace/getstream?infohash=80b395de2f07983ac324d1160711487aefaa7eaa
+#EXTINF:-1,236. VOX HD [DE] [ regional ] 2023-02-25 18:20:08 a=1 b=609323
+http://192.168.0.136:6878/ace/getstream?infohash=962ad82800c4e3614a231fa037b3f4ce5c9de1cb
+#EXTINF:-1,237. Sundance Channel HD [PL] [ regional ] 2023-02-25 18:20:02 a=1 b=614831
+http://192.168.0.136:6878/ace/getstream?infohash=70a6e0b697fc65f875209510e91d45b5d55c18d3
+#EXTINF:-1,238. TVR International HD [ entertaining ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=57a3ef1023d4486092d45c9fbdd62966662acd5b
+#EXTINF:-1,239. AAJ TAK HD [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=6810bbec94844fc91b7e437ab7995b96de3a76cd
+#EXTINF:-1,240. ATV HD -4 [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=62659d4c35905423294f481e1c0b9636f0f58386
+#EXTINF:-1,241. TRANS TV HD [ tv ] 2023-02-25 14:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1f9789af12c44d9d35fdcf4a63b2c748cc55e86b
+#EXTINF:-1,242. EL PINGÜINO TV HD [ TV ] 2023-02-25 01:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=fa4eb62d03708c8e52e0517470c5215b5028177a
+#EXTINF:-1,243. ATV HD -2 [ tv ] 2023-02-24 19:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=affc1cf72620a3da94688a0a67fa439f050c7c41
+#EXTINF:-1,244. Arryadia Sport HD (Marocco) [ sport ] 2023-02-25 18:14:02 a=0.8333333333333334
+http://192.168.0.136:6878/ace/getstream?infohash=1c6d430c9d6ef715ece230368f1c30d17516bd26
+#EXTINF:-1,245. RU: SPORT HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=815fb5c596d67a7b23670f5af2c01c5a3a672eed
+#EXTINF:-1,246. RedTraffic Cuckold HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b4e181e30b3d6a45440fdce7bf39897071cf5e0c
+#EXTINF:-1,247. RedTraffic Latina HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=713ac380cf0dc0a2fdd4022fa8a711c71319bfde
+#EXTINF:-1,248. RedTraffic Lesbian HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e809d53ce9fbd5190505ee4447d1717e6ea7a645
+#EXTINF:-1,249. RedTraffic POV HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=d96e298409de1ccd7a5d02224e76e450ea82ca3f
+#EXTINF:-1,250. RedTraffic Pornstar HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f4d6862e0025ef86533169f7aa316960f6daecd4
+#EXTINF:-1,251. History 2 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ec046f004a4ad98259e4c0c869d0af25d537ca1b
+#EXTINF:-1,252. Rai 3 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4376b1c9c779062b70a0d15cbd80f186229a0747
+#EXTINF:-1,253. TVG Evento 5 HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=88c290d1eea45ce6e82b6159084b7d9db2540431
+#EXTINF:-1,254. Новороссия ТВ HD [ TV ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=45b99d3a9881ee8185a9e8f6e1152b729cabf7dc
+#EXTINF:-1,255. 7 Канал HD (Одесса) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4b07ab09c805a8fc60d6b03297a503a9db231ed4
+#EXTINF:-1,256. BOX Gangster HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=358f2a7588e3aa9d99bde8ac43df76ca7d3fbc4a
+#EXTINF:-1,257. Nat Geo Wild HD [ tv; educational ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a8fff7f9ec863a8c3f9f8265f434bba3359656ba
+#EXTINF:-1,258. Turkmenistan Sport HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3899abf825359619be36271d2677ef037684e135
+#EXTINF:-1,259. Север ТВ HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=665039466d5ec00e09e0deaa5f9e226055c5a8ca
+#EXTINF:-1,260. Publika TV HD (Mold) [ tv ] 2023-02-25 17:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=703c68faa933cfc7397db8f66fe132c3e2809350
+#EXTINF:-1,261. XITE NL HD 2023-02-25 17:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=46a97b5b2554b7870b7ec23e6086c70a863d4c2a
+#EXTINF:-1,262. Nrwision TV HD 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9e510340d619da72e6c6251d14ce45864493c196
+#EXTINF:-1,263. Viva Russia HD [ music; tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2fa3bcd00d9bc6f26857ad80eb016d1f45d377c5
+#EXTINF:-1,264. Лучшие моменты ЛЧ HD [ tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1adcc7c6012e7a67f376c4d251039f1f1da39c4b
+#EXTINF:-1,265. Междуреченск 4 [HD] [ tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=7ced67e26eeed59a18c31045451beaf4fb1be993
+#EXTINF:-1,266. Fresh Cinema HD 2023-02-25 17:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=5bbf946ebd9030357986fe69a90aec44d2ad9f99
+#EXTINF:-1,267. VTV5 HD 1 [ series ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=113b842b0b941c8d4c72ff2e0fb43664730f4e21
+#EXTINF:-1,268. Fresh Series HD 2023-02-25 16:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=583dfd45cace2246d214730f7e2e6666f20a6d1f
+#EXTINF:-1,269. СК1 HD (Житомир) [ tv ] 2023-02-25 16:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c5e921aaf7b25570e06f37b595339723a4af950c
+#EXTINF:-1,270. Música HD www.achoAPPS.com superior [ tv ] 2023-02-25 15:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=07188b89344befce7193b1089a92e3cbc3f9af76
+#EXTINF:-1,271. Артек Речной HD [ tv ] 2023-02-25 15:00:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=7697cca7e79c4c208520ade6022cb4c1ca03faa6
+#EXTINF:-1,272. Fresh Comedy HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b33492fd74254de5ec0bfd651173912f4bb2a16e
+#EXTINF:-1,273. Fresh Premiere HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3ce822d3a5016a44f6995ce79f7c6a7996710f0e
+#EXTINF:-1,274. Fresh Romantic HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=16ca38d69735090e0de2c4d35032de6ed470d114
+#EXTINF:-1,275. Horizon TV HD [ tv ] 2023-02-25 14:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1da6dc160feb32607ff914dbce51ab670ad2cf30
+#EXTINF:-1,276. Подольск - ТЦ Люкс [HD] [ tv ] 2023-02-25 13:42:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ac4145634f1c4ab13a462e2b2a26f23ce19b5b6e
+#EXTINF:-1,277. Solidaria TV HD [ tv ] 2023-02-25 11:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=df841e1623ed6c7b97a55263d7bd8e25836c638b
+#EXTINF:-1,278. Череповец 9 [HD] [ tv ] 2023-02-25 10:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=27488122102eb1f79fac4801a8aa13fde39645cf
+#EXTINF:-1,279. Первый Тульский HD [ tv ] 2023-02-25 08:28:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=467fd7ce4ef1aeefd38f55a57b0cd3ee700e87f0
+#EXTINF:-1,280. Canal 3 HD [ tv ] 2023-02-24 23:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=13f13a8445091e1d9ce45a4720bc1d93b2e531ac
+#EXTINF:-1,281. CNN INDONESIA HD [ tv; informational ] 2023-02-24 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=8262000a94442fe440c835c9abece1e763d862ee
+#EXTINF:-1,282. Астрахань 24 HD [ tv ] 2023-02-24 00:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=61cb071697b8462bfe6ef991e5c1eb88e0f1009d
+#EXTINF:-1,283. Akit TV HD [ tv ] 2023-02-23 19:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=90b28f9c8711cdeab36521bd1147cd33df7c71d2
+#EXTINF:-1,284. Наша Сибирь HD [ tv ] 2023-02-23 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a0cc34324dd130db6145fbfd5e4824ab4393a12a
+#EXTINF:-1,285. Хабар 24 HD [ tv ] 2023-02-23 07:42:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=df2050b3563f6258ffbe0b07fdb3a9ba6b5a2144
+#EXTINF:-1,286. CGTN Русский HD [ tv ] 2023-02-22 14:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ff7c8c82f1f823453a0a073982765f8f96b811b4
+#EXTINF:-1,287. Ел Арна HD 2023-02-21 22:00:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=315a1ce108b98797dfa5303c5b98dc53cf0b3ebc
+#EXTINF:-1,288. Eurosport 1 HD [RU] [ sport ] 2023-02-25 18:20:18 a=1 b=594944
+http://192.168.0.136:6878/ace/getstream?infohash=42e959bffd0dd0f138dd03abf387b4284ece7e30
+#EXTINF:-1,289. КХЛ HD [RU] [ sport ] 2023-02-25 18:20:22 a=1 b=561683
+http://192.168.0.136:6878/ace/getstream?infohash=242553daf687872eca8e184c238dc11ab712e9ac
+#EXTINF:-1,290. Eurosport 2 HD [RU] [ movies; sport ] 2023-02-25 18:20:21 a=1 b=520539
+http://192.168.0.136:6878/ace/getstream?infohash=3fee4ce1dbc079ff3f302535070d9547988a407c
+#EXTINF:-1,291. Матч! Премьер HD [RU] [ sport ] 2023-02-25 18:20:09 a=1 b=934836
+http://192.168.0.136:6878/ace/getstream?infohash=88c482d9e57b1a031c032344f9c00cf7b36da8d9
+#EXTINF:-1,292. BCU Comedy HD [RU] [ movies ] 2023-02-25 18:20:20 a=1 b=577182
+http://192.168.0.136:6878/ace/getstream?infohash=8f7c250bba5197733583fdd64d240f32ff9958aa
+#EXTINF:-1,293. BCU VHS HD [RU] [ movies ] 2023-02-25 18:20:21 a=1 b=668563
+http://192.168.0.136:6878/ace/getstream?infohash=26168a25a71df0ba02344ee1b6be4d281a42ed39
+#EXTINF:-1,294. Наше любимое HD [RU] [ movies ] 2023-02-25 18:20:15 a=1 b=545756
+http://192.168.0.136:6878/ace/getstream?infohash=156283f58f21399fb21145d36fd43419da56bfbf
+#EXTINF:-1,295. BCU Premiere HD [RU] [ movies ] 2023-02-25 18:20:08 a=1 b=492733
+http://192.168.0.136:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad
+#EXTINF:-1,296. Discovery HD [RU] [ educational; movies; documentaries ] 2023-02-25 18:20:03 a=1 b=548316
+http://192.168.0.136:6878/ace/getstream?infohash=6477d56108d979adf1a069b26c820e749b94b9da
+#EXTINF:-1,297. BCU Ruserial HD [RU] [ movies ] 2023-02-25 18:20:20 a=1 b=687807
+http://192.168.0.136:6878/ace/getstream?infohash=7278589eb71cba58dd084dcf51ba5ec12fa35dcc
+#EXTINF:-1,298. BCU Russian HD [RU] [ movies ] 2023-02-25 18:20:18 a=1 b=674645
+http://192.168.0.136:6878/ace/getstream?infohash=0643d7ff20eb8faec2d6d063b9d0fa4ab9e54fc6
+#EXTINF:-1,299. BCU Cinema HD [RU] [ movies ] 2023-02-25 18:20:06 a=1 b=637217
+http://192.168.0.136:6878/ace/getstream?infohash=66915c66a5a5f3f89ea41700d3c32bb3a6062ba4
+#EXTINF:-1,300. Блокбастер HD [RU] [ movies ] 2023-02-25 18:20:11 a=1 b=586499
+http://192.168.0.136:6878/ace/getstream?infohash=26704e203fcf15bf025bbc9a2d238dfb14075652
+#EXTINF:-1,301. Кинопремьера HD [RU] [ movies ] 2023-02-25 18:20:19 a=1 b=692399
+http://192.168.0.136:6878/ace/getstream?infohash=8eb2c2a4534bcbaa1873e258e0fa4fcdad0dc05c
+#EXTINF:-1,302. H2 HD [RU] [ educational ] 2023-02-25 18:20:18 a=1 b=569277
+http://192.168.0.136:6878/ace/getstream?infohash=259cb14a1a9178a6b3f8228b25c057e0f1463ce7
+#EXTINF:-1,303. Eurosport360 HD 1 [DE] [ regional ] 2023-02-25 18:20:13 a=1 b=1203455
+http://192.168.0.136:6878/ace/getstream?infohash=5b87f8ae2766c80273f7fc0be516880580d5e8b5
+#EXTINF:-1,304. Шокирующее HD [RU] [ movies ] 2023-02-25 18:20:10 a=1 b=578614
+http://192.168.0.136:6878/ace/getstream?infohash=90f87b7e2044d25ce1e483774bded9ccf961e697
+#EXTINF:-1,305. Матч! Арена HD [RU] [ movies; sport ] 2023-02-25 18:20:06 a=1 b=427856
+http://192.168.0.136:6878/ace/getstream?infohash=3a6ebb9eb0012bbd563e710c0c7e7ce2a8e4239a
+#EXTINF:-1,306. BCU Reality HD [RU] [ movies ] 2023-02-25 18:20:10 a=1 b=579185
+http://192.168.0.136:6878/ace/getstream?infohash=d2d86cf5b97ec439b604627b0fb5b18882ea34a4
+#EXTINF:-1,307. HBO 2 HD [PL] [ regional; movies ] 2023-02-25 18:20:09 a=1 b=607399
+http://192.168.0.136:6878/ace/getstream?infohash=e690dbfc22c5a7184a2d47bbca065be65e525cfc
+#EXTINF:-1,308. Хит HD [RU] [ movies ] 2023-02-25 18:20:16 a=1 b=581815
+http://192.168.0.136:6878/ace/getstream?infohash=c6b97fd0578b6f279870a6d002640c1fc97e810a
+#EXTINF:-1,309. Киноджем 1 HD [RU] [ movies ] 2023-02-25 18:20:11 a=1 b=1145323
+http://192.168.0.136:6878/ace/getstream?infohash=3b40d0d8f3292e94d23e92e7f2fad000b1b03f92
+#EXTINF:-1,310. BCU Cinema+ HD [RU] [ movies ] 2023-02-25 18:20:24 a=1 b=593179
+http://192.168.0.136:6878/ace/getstream?infohash=bd0150e4082d4a3c6d0cfd5f8ee21ae33092866d
+#EXTINF:-1,311. BCU Романтика HD [RU] [ movies ] 2023-02-25 18:20:06 a=1 b=573307
+http://192.168.0.136:6878/ace/getstream?infohash=f45a2775a15f7f719e1f0e8e13468bbfa7f54017
+#EXTINF:-1,312. National Geographic HD [PL] [ regional; educational; documentaries ] 2023-02-25 18:20:31 a=1 b=657319
+http://192.168.0.136:6878/ace/getstream?infohash=4e9d5f394d5b352866303764dd2e97efe2f279b6
+#EXTINF:-1,313. TVP 1 HD [PL] [ regional ] 2023-02-25 18:20:24 a=1 b=579892
+http://192.168.0.136:6878/ace/getstream?infohash=eeaa185d0305a21a8fa388f79adaf9b1677628da
+#EXTINF:-1,314. Polsat HD [PL] [ regional ] 2023-02-25 18:20:26 a=1 b=1126398
+http://192.168.0.136:6878/ace/getstream?infohash=973e3531a2df33e950a72a73353809b73c5b5e08
+#EXTINF:-1,315. Eurosport360 HD 4 [DE] [ regional ] 2023-02-25 18:20:23 a=1 b=1148578
+http://192.168.0.136:6878/ace/getstream?infohash=1daea812402de8dde9de91a1a589cbc3c6b30980
+#EXTINF:-1,316. MTV Live HD [PL] [ regional; entertaining; music; sport ] 2023-02-25 18:20:21 a=1 b=704054
+http://192.168.0.136:6878/ace/getstream?infohash=19c5bf7e2407d091db2a153fbe1aa36b984713e2
+#EXTINF:-1,317. Fashion TV HD [RU] [ educational; entertaining; fashion ] 2023-02-25 18:20:11 a=1 b=566602
+http://192.168.0.136:6878/ace/getstream?infohash=ad431039652333afa66bd9783edeb98b64c586f0
+#EXTINF:-1,318. DELUXE MUSIC HD [DE] [ regional ] 2023-02-25 18:20:33 a=1 b=674577
+http://192.168.0.136:6878/ace/getstream?infohash=f29369be736fb9b77a27bf6240b162d8405cb0f7
+#EXTINF:-1,319. Fightklub HD [PL] [ regional; sport ] 2023-02-25 18:20:24 a=1 b=625043
+http://192.168.0.136:6878/ace/getstream?infohash=be9d751f2e5323a49d4aad66a0ff2f5c0318d8e2
+#EXTINF:-1,320. Мульт HD [RU] [ kids ] 2023-02-25 18:20:21 a=1 b=425794
+http://192.168.0.136:6878/ace/getstream?infohash=120cffa3087fc07ea13c83f2c4fff8f3f5767eb8
+#EXTINF:-1,321. ORF SPORT+ HD [DE] [ regional; sport ] 2023-02-25 18:20:14 a=1 b=884878
+http://192.168.0.136:6878/ace/getstream?infohash=e10a61b33dc7ac7804cb2b9379512659d673f3c0
+#EXTINF:-1,322. Eurosport360 HD 2 [DE] [ regional ] 2023-02-25 18:20:10 a=1 b=500000
+http://192.168.0.136:6878/ace/getstream?infohash=ea8286a637beb98bf8728c319b77e0a2686ac887
+#EXTINF:-1,323. Bridge HD [RU] [ music ] 2023-02-25 18:20:09 a=1 b=479251
+http://192.168.0.136:6878/ace/getstream?infohash=56f73fefee3e8cfdc742d1de9c892f0a3ec79413
+#EXTINF:-1,324. Dikaya Okhota HD [RU] [ educational ] 2023-02-25 18:20:05 a=1 b=568402
+http://192.168.0.136:6878/ace/getstream?infohash=c5bac5ae6b8f86668fab3776ff09bee03a272736
+#EXTINF:-1,325. Про Любовь HD [RU] [ movies ] 2023-02-25 18:20:03 a=1 b=516172
+http://192.168.0.136:6878/ace/getstream?infohash=bd0abcbc41397ebec18e94dd4799b24c21449ccd
+#EXTINF:-1,326. Арсенал HD [RU] [ movies ] 2023-02-25 18:20:02 a=1 b=497500
+http://192.168.0.136:6878/ace/getstream?infohash=fbe6cc6532011348e31992e4e37138de3001f2d7
+#EXTINF:-1,327. Canal+ Family HD [PL] [ regional ] 2023-02-25 18:20:37 a=1 b=732181
+http://192.168.0.136:6878/ace/getstream?infohash=61c98b6f9b38ffdff67547ba66b57026867e87d9
+#EXTINF:-1,328. Canal+ Film HD [PL] [ regional ] 2023-02-25 18:20:36 a=1 b=442746
+http://192.168.0.136:6878/ace/getstream?infohash=8d0ccd440018e147b748f5751c642a420725686f
+#EXTINF:-1,329. Polsat Cafe HD [PL] [ regional ] 2023-02-25 18:20:35 a=1 b=643021
+http://192.168.0.136:6878/ace/getstream?infohash=eed37e83e8b8e2f8bb1e976917e99a3de605ed3f
+#EXTINF:-1,330. Syfy HD [DE] [ regional ] 2023-02-25 18:20:29 a=1 b=553476
+http://192.168.0.136:6878/ace/getstream?infohash=0a48b895ed0994a11fccf487aada3808446bb932
+#EXTINF:-1,331. TV4 HD [PL] [ regional ] 2023-02-25 18:20:28 a=1 b=551101
+http://192.168.0.136:6878/ace/getstream?infohash=16cbbdf5584cd6e08f42e98b6aad700f5f2582b8
+#EXTINF:-1,332. RTL HD [DE] [ regional ] 2023-02-25 18:20:25 a=1 b=708398
+http://192.168.0.136:6878/ace/getstream?infohash=2acd92f20fa60512cf01b4e16dffc5d14574d214
+#EXTINF:-1,333. Comedy Central HD [PL] [ regional ] 2023-02-25 18:20:24 a=1 b=483541
+http://192.168.0.136:6878/ace/getstream?infohash=e672ea839f8e12360e2fe208c3095482bcd98e25
+#EXTINF:-1,334. WDR HD Aachen [DE] [ regional ] 2023-02-25 18:20:21 a=1 b=653952
+http://192.168.0.136:6878/ace/getstream?infohash=565b855248085e63c5deb092f8512ffc52a26bf9
+#EXTINF:-1,335. Еда Премиум HD [RU] [ educational ] 2023-02-25 18:20:20 a=1 b=533791
+http://192.168.0.136:6878/ace/getstream?infohash=2c4cda7044f5390e060823dc25014eb23875c820
+#EXTINF:-1,336. SIXX HD [DE] [ regional ] 2023-02-25 18:20:19 a=1 b=638202
+http://192.168.0.136:6878/ace/getstream?infohash=23ccd7289cd16609bec19752ef4dc97859a984db
+#EXTINF:-1,337. Eurosport360 HD 6 [DE] [ regional ] 2023-02-25 18:20:18 a=1 b=1384412
+http://192.168.0.136:6878/ace/getstream?infohash=14491080089a80fff3ae867b03dc0db4aa0d0b15
+#EXTINF:-1,338. Paramount Channel HD [PL] [ regional; movies ] 2023-02-25 18:20:16 a=1 b=563782
+http://192.168.0.136:6878/ace/getstream?infohash=64b7d92620dc66184528faa495fbac8bea9b1eec
+#EXTINF:-1,339. Disney HD [DE] [ regional ] 2023-02-25 18:20:15 a=1 b=699481
+http://192.168.0.136:6878/ace/getstream?infohash=3b478c7e9118048ee50f6d274f0b2ab17aa684b1
+#EXTINF:-1,340. Sat.1 HD [DE] [ regional ] 2023-02-25 18:20:13 a=1 b=1049639
+http://192.168.0.136:6878/ace/getstream?infohash=54e90a83e6014f3167936dad752f7f2ef59ccf68
+#EXTINF:-1,341. Kabel Eins HD [DE] [ regional ] 2023-02-25 18:20:12 a=1 b=678980
+http://192.168.0.136:6878/ace/getstream?infohash=79c4cd2830047e06754ae1e6b3e1334a0cb8897d
+#EXTINF:-1,342. TVP HD [PL] [ regional ] 2023-02-25 18:20:12 a=1 b=491117
+http://192.168.0.136:6878/ace/getstream?infohash=877cbd84643bf4d0f46f391dd14e507c3f50c5fa
+#EXTINF:-1,343. 3sat HD [DE] [ regional ] 2023-02-25 18:20:11 a=1 b=359321
+http://192.168.0.136:6878/ace/getstream?infohash=88114924ab20f9ce275e816a9a6468126e75d63b
+#EXTINF:-1,344. Animal Planet HD [PL] [ regional; educational; music ] 2023-02-25 18:20:10 a=1 b=731483
+http://192.168.0.136:6878/ace/getstream?infohash=3c2590e3d167e159115d4a63b25d371f6eeae7c0
+#EXTINF:-1,345. BR Fernsehen HD [DE] [ regional ] 2023-02-25 18:20:06 a=1 b=1290406
+http://192.168.0.136:6878/ace/getstream?infohash=347d90c9792449d7eaee959d10cbf128b3e59509
+#EXTINF:-1,346. n-tv HD [DE] [ regional ] 2023-02-25 18:20:04 a=1 b=637820
+http://192.168.0.136:6878/ace/getstream?infohash=b3fde44d473cd60d1df05395ac81ad9ab554f83b
+#EXTINF:-1,347. Canal+ Dokument HD [PL] [ regional ] 2023-02-25 18:20:03 a=1 b=644626
+http://192.168.0.136:6878/ace/getstream?infohash=e1d1deb71ac36ed0b472654738ce91d11ae8ac5d
+#EXTINF:-1,348. JOJ PLUS HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a8adfea5e0d0ae1f0f6142c2e307c77cace7ce09
+#EXTINF:-1,349. C33 Madrid HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9f0bbc9dfc45d1f4b3541c8e6e0aefd733e47fa8
+#EXTINF:-1,350. Altyn Asyr HD [ other ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=df4fbd9a9443e2f13097289437f6275f889c0338
+#EXTINF:-1,351. Rotana Classic HD [ tv ] 2023-02-25 09:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a91af21d63f023125e179ebbd84be6f383473518
+#EXTINF:-1,352. Plant-Based Network HD [ tv ] 2023-02-25 00:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a28154c637c9cdcc69bbe9fbd7b8f1697f8c040d
+#EXTINF:-1,353. HONDURAS:TEN Honduras | HD [ tv ] 2023-02-24 23:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c813e8ee3e8c58bd5f1acea1bca62d80b9e20515
+#EXTINF:-1,354. Setanta Sports Ukraine HD 2023-02-25 18:14:02 a=0.9336043360433605
+http://192.168.0.136:6878/ace/getstream?infohash=cc52ecee0549a32251977632acab3b0678a60f8a
+#EXTINF:-1,355. Матч! футбол 3 HD [ movies; sport; tv ] 2023-02-25 18:14:02 a=0.9230769230769231
+http://192.168.0.136:6878/ace/getstream?infohash=6336b424bdd25af639c86d76036f0f6a703f28ab
+#EXTINF:-1,356. Матч! футбол 2 HD [ movies; sport; tv ] 2023-02-25 18:14:02 a=0.9117647058823529
+http://192.168.0.136:6878/ace/getstream?infohash=46a73dbc435c9178367a474d33aae1817dfdb516
+#EXTINF:-1,357. Россия 1 HD 2023-02-25 18:14:02 a=0.875
+http://192.168.0.136:6878/ace/getstream?infohash=fb92f31a72cf23f298ccd23a12fc2eabd3eb7738
+#EXTINF:-1,358. RedTraffic Fetish HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2950dce4c9062022056b7a3e6a751b35fc41a07d
+#EXTINF:-1,359. RedTraffic Interracial HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e1324091544c0f61d4e11f33d6fbbf3db5ca5ff3
+#EXTINF:-1,360. RedTraffic MILF HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=312b0be61b781b07dfc1ccf1e24e0c7f91a020e6
+#EXTINF:-1,361. Шелк ТВ HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=8e093a13f9f6adbe9413ba55963ac1668234767a
+#EXTINF:-1,362. Akudji TV HD [ tv;  ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=5f7f621a3477ff761f966c00d09bad1f10ddc273
+#EXTINF:-1,363. HOT HBO HD (Израиль) 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b3051df13851553887f05f42a099c6034d97c1fb
+#EXTINF:-1,364. I-UA TV HD [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2494589a1a5e246814e1a0bea9fd4749142e94eb
+#EXTINF:-1,365. New Armenia HD [ regional ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=8cc969ddddd6e819895065228d2426484c2f56e5
+#EXTINF:-1,366. Кино тв HD [ movies; tv ] 2023-02-25 18:07:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2b843b82d6a4e5bfa56bb3ded218ffeeea0ff670
+#EXTINF:-1,367. Шант Kids HD [ kids ] 2023-02-25 17:56:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=25be05cfecb2e53943e5a7eea722a682824c442f
+#EXTINF:-1,368. Артек Хрустальный HD [ tv ] 2023-02-25 17:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3aa77f7d0d3a96fef5e0862845cc1a246f03aa42
+#EXTINF:-1,369. Fresh Fantastic HD 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=da8222765af8b845f823488c4c5aaf39ff3b32b2
+#EXTINF:-1,370. RTV Altea HD [ tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ec6554d8dcd01d9b137586d34a669f2e83a9cd0b
+#EXTINF:-1,371. Междуреченск 1 [HD] [ tv ] 2023-02-25 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f74e80c27e34adf0b6ea94d51138a33f801013c9
+#EXTINF:-1,372. LAVA HD Русский [ tv ] 2023-02-25 17:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=b33f5d6d71585b4f6fe2087426091a76d419afce
+#EXTINF:-1,373. VTV9 HD 1 [ series ] 2023-02-25 17:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9598ea384fc8e4182295bac1451f0a47c1cd276c
+#EXTINF:-1,374. HANOI 1 HD [ informational ] 2023-02-25 17:00:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=6644705782b09279d48b7561292db66a8c5c842f
+#EXTINF:-1,375. 312 МУЗЫКА HD [ tv; music ] 2023-02-25 16:00:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=2d58285fc281d4c566a833ca0b3a62a9d716aa1b
+#EXTINF:-1,376. First Music channel HD [ tv ] 2023-02-25 15:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=cfc880be6a9d75b7a935f8a5101897415e2c28d4
+#EXTINF:-1,377. POWER TV HD [ tv ] 2023-02-25 15:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f789c71128b6fbc3ed384f0162b23714d3959f66
+#EXTINF:-1,378. LRT Plius HD (Литва) 2023-02-25 14:56:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=a77ea579865e7716a056ea9a5b354aa3395ae9dd
+#EXTINF:-1,379. 360° Подмосковье HD [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4a2def226dad4f62a9e1aacab7d54542df2bd871
+#EXTINF:-1,380. AIVA TV HD [ tv ] 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=c582c83f0e0c404828f45d7e9545df7f8448dcfb
+#EXTINF:-1,381. Fresh Family HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=83a04f0c691e822e3ae38087e41e204e6572cf76
+#EXTINF:-1,382. Fresh Horror HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=9174b31f30910b5705d6b952ce6069f08c5e9ee8
+#EXTINF:-1,383. Fresh Rating HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=4c8cc8e1d2487257b1dfb6636fe37a0f59a126ca
+#EXTINF:-1,384. Fresh Thriller HD 2023-02-25 14:49:03 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=1fccda216371a975874e06846f262af811962829
+#EXTINF:-1,385. Чехия - Вокзал Праги [HD] [ tv ] 2023-02-25 13:56:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=44a158c632c4e77e2d7bd2fdd967f55efdd9544b
+#EXTINF:-1,386. Аэропорт Дюссельдорфа 3 [HD] [ tv ] 2023-02-25 13:42:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e4c369fdcae2077f490c018c06166bfb6f484b8c
+#EXTINF:-1,387. Мурино 15 [HD] [ tv ] 2023-02-25 13:42:01 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=6ea999b134633956f0a2947f0debcd26079a8cbb
+#EXTINF:-1,388. Вместе РФ HD [ tv ] 2023-02-25 12:56:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=5ac07774559151b654e0389d7c7aeb577d9b4124
+#EXTINF:-1,389. Крик ТВ HD [ tv ] 2023-02-25 11:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ec778d9eadd76074bf6abd29be013f3062407f78
+#EXTINF:-1,390. Clubbing TV HD [ music; tv ] 2023-02-25 10:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ea22ec8db77417824dc15d5bb8d2f0f0c51ae11e
+#EXTINF:-1,391. Русский Север HD (Вологда) [ tv ] 2023-02-24 21:00:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=36f61b4dec13741506bd14dcc05ff98e21590af8
+#EXTINF:-1,392. Brics TV HD [ tv ] 2023-02-23 11:56:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=74bdcf62f36d5bbbb3597b49e3bb9aed4f060988
+#EXTINF:-1,393. TLX HD ARG [ tv ] 2023-02-20 17:42:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=3ba8a0e5538e24de56fded337c679b7685d2c35f
+#EXTINF:-1,394. Star Family HD [ Фильмы|HD ] 2023-02-20 15:28:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=0c82be4c8565cf46128fb245fc22ce2d8a5a6417
+#EXTINF:-1,395. Eleven Sports 2 HD [PL] [ regional; sport ] 2023-02-25 18:20:36 a=1 b=948563
+http://192.168.0.136:6878/ace/getstream?infohash=ae964a3fb5009d462ceb6e60dd56b3cfa8159620
+#EXTINF:-1,396. Sky Bundesliga 1 HD [DE] [ regional; sport ] 2023-02-25 18:20:38 a=1 b=2215664
+http://192.168.0.136:6878/ace/getstream?infohash=dfbb321c7ee0d3309a03770fea07c67434182acc
+#EXTINF:-1,397. Eleven Sports 4 HD [PL] [ regional ] 2023-02-25 18:20:09 a=1 b=887872
+http://192.168.0.136:6878/ace/getstream?infohash=a2a02182ab8fec713cbaf5a45d92c5cd5a499c42
+#EXTINF:-1,398. beIN SPORTS HD 2 [TR] [ regional ] 2023-02-25 18:20:38 a=1 b=346075
+http://192.168.0.136:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e
+#EXTINF:-1,399. BCU Кинозал СССР HD [RU] [ movies ] 2023-02-25 18:20:07 a=1 b=588243
+http://192.168.0.136:6878/ace/getstream?infohash=9fcf8f56aeb2e49fe2eff5d7c445d1058a03ce4c
+#EXTINF:-1,400. FOX Sports 1 HD [US] [ sport ] 2023-02-25 18:20:03 a=1 b=466627
+http://192.168.0.136:6878/ace/getstream?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47
+#EXTINF:-1,401. Viasat Nature/History HD [RU] [ educational; movies ] 2023-02-25 18:20:17 a=1 b=573844
+http://192.168.0.136:6878/ace/getstream?infohash=14c74e9552c440606b9f628cc4f50dc14e2dfc2b
+#EXTINF:-1,402. Magenta Sport 1 HD [DE] [ regional ] 2023-02-25 18:20:39 a=1 b=1181249
+http://192.168.0.136:6878/ace/getstream?infohash=1d08eb70e51005f6b52c07c69cbe7ad8b515d174
+#EXTINF:-1,403. Sky Select 1 HD [DE] [ regional ] 2023-02-25 18:20:33 a=1 b=391263
+http://192.168.0.136:6878/ace/getstream?infohash=f016cf7fdd00da5e5a366f133f7af70465cfc7bf
+#EXTINF:-1,404. Sky Select 2 HD [DE] [ regional ] 2023-02-25 18:20:24 a=1 b=403814
+http://192.168.0.136:6878/ace/getstream?infohash=570659d1e2cce7bd0861108477825f9f77727a8d
+#EXTINF:-1,405. Magenta Sport 6 HD [DE] [ regional ] 2023-02-25 18:20:03 a=1 b=1001286
+http://192.168.0.136:6878/ace/getstream?infohash=c7da2bedd584836e3eab3199939e471e5dcae8fc
+#EXTINF:-1,406. Magenta Sport 4 HD [DE] [ regional ] 2023-02-25 18:20:13 a=1 b=1078933
+http://192.168.0.136:6878/ace/getstream?infohash=bf65ee0790793f4f773c39b6fde8fdbe3fbb9465
+#EXTINF:-1,407. Sky Cinema Special HD [DE] [ regional ] 2023-02-25 18:20:21 a=1 b=653988
+http://192.168.0.136:6878/ace/getstream?infohash=07793c990e158208c29207faecb10769595beeea
+#EXTINF:-1,408. Magenta Sport 7 HD [DE] [ regional ] 2023-02-25 18:20:18 a=1 b=939117
+http://192.168.0.136:6878/ace/getstream?infohash=8c54e949d608a0f154a36ad0ff9a9a3397a40a4a
+#EXTINF:-1,409. Sky Select 4 HD [DE] [ regional ] 2023-02-25 18:20:12 a=1 b=322992
+http://192.168.0.136:6878/ace/getstream?infohash=112a47da451cc256e8dbd49b7fd2bedea6da3f3e
+#EXTINF:-1,410. Sky Cinema Action HD [DE] [ regional ] 2023-02-25 18:20:28 a=1 b=588789
+http://192.168.0.136:6878/ace/getstream?infohash=167b439ae4fd189c348e6588c1aab07346435716
+#EXTINF:-1,411. Sky Select 7 HD [DE] [ regional ] 2023-02-25 18:20:16 a=1 b=347560
+http://192.168.0.136:6878/ace/getstream?infohash=058a05652891dc7bb6f132c74d016aa2ea7ecd10
+#EXTINF:-1,412. Magenta Sport 11 HD [DE] [ regional ] 2023-02-25 18:20:07 a=1 b=1037565
+http://192.168.0.136:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+#EXTINF:-1,413. JOJ (1+) | HD (EX-YU) [ tv ] 2023-02-24 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=473520eea49b2d01f4058910a42b045004db149e
+#EXTINF:-1,414. Псков - Площадь Героев-Десантников [HD] [ tv ] 2023-02-25 12:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=6c5967c9b920e77fe04cb7f388216737a1bd7487
+#EXTINF:-1,415. Eleven Sports 2 HD [PL] [ regional; sport ] 2023-02-25 18:20:36 a=1 b=948563
+http://192.168.0.136:6878/ace/getstream?infohash=ae964a3fb5009d462ceb6e60dd56b3cfa8159620
+#EXTINF:-1,416. Sky Bundesliga 1 HD [DE] [ regional; sport ] 2023-02-25 18:20:38 a=1 b=2215664
+http://192.168.0.136:6878/ace/getstream?infohash=dfbb321c7ee0d3309a03770fea07c67434182acc
+#EXTINF:-1,417. Eleven Sports 4 HD [PL] [ regional ] 2023-02-25 18:20:09 a=1 b=887872
+http://192.168.0.136:6878/ace/getstream?infohash=a2a02182ab8fec713cbaf5a45d92c5cd5a499c42
+#EXTINF:-1,418. beIN SPORTS HD 2 [TR] [ regional ] 2023-02-25 18:20:38 a=1 b=346075
+http://192.168.0.136:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e
+#EXTINF:-1,419. BCU Кинозал СССР HD [RU] [ movies ] 2023-02-25 18:20:07 a=1 b=588243
+http://192.168.0.136:6878/ace/getstream?infohash=9fcf8f56aeb2e49fe2eff5d7c445d1058a03ce4c
+#EXTINF:-1,420. FOX Sports 1 HD [US] [ sport ] 2023-02-25 18:20:03 a=1 b=466627
+http://192.168.0.136:6878/ace/getstream?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47
+#EXTINF:-1,421. Viasat Nature/History HD [RU] [ educational; movies ] 2023-02-25 18:20:17 a=1 b=573844
+http://192.168.0.136:6878/ace/getstream?infohash=14c74e9552c440606b9f628cc4f50dc14e2dfc2b
+#EXTINF:-1,422. Magenta Sport 1 HD [DE] [ regional ] 2023-02-25 18:20:39 a=1 b=1181249
+http://192.168.0.136:6878/ace/getstream?infohash=1d08eb70e51005f6b52c07c69cbe7ad8b515d174
+#EXTINF:-1,423. Sky Select 1 HD [DE] [ regional ] 2023-02-25 18:20:33 a=1 b=391263
+http://192.168.0.136:6878/ace/getstream?infohash=f016cf7fdd00da5e5a366f133f7af70465cfc7bf
+#EXTINF:-1,424. Sky Select 2 HD [DE] [ regional ] 2023-02-25 18:20:24 a=1 b=403814
+http://192.168.0.136:6878/ace/getstream?infohash=570659d1e2cce7bd0861108477825f9f77727a8d
+#EXTINF:-1,425. Magenta Sport 6 HD [DE] [ regional ] 2023-02-25 18:20:03 a=1 b=1001286
+http://192.168.0.136:6878/ace/getstream?infohash=c7da2bedd584836e3eab3199939e471e5dcae8fc
+#EXTINF:-1,426. Magenta Sport 4 HD [DE] [ regional ] 2023-02-25 18:20:13 a=1 b=1078933
+http://192.168.0.136:6878/ace/getstream?infohash=bf65ee0790793f4f773c39b6fde8fdbe3fbb9465
+#EXTINF:-1,427. Sky Cinema Special HD [DE] [ regional ] 2023-02-25 18:20:21 a=1 b=653988
+http://192.168.0.136:6878/ace/getstream?infohash=07793c990e158208c29207faecb10769595beeea
+#EXTINF:-1,428. Magenta Sport 7 HD [DE] [ regional ] 2023-02-25 18:20:18 a=1 b=939117
+http://192.168.0.136:6878/ace/getstream?infohash=8c54e949d608a0f154a36ad0ff9a9a3397a40a4a
+#EXTINF:-1,429. Sky Select 4 HD [DE] [ regional ] 2023-02-25 18:20:12 a=1 b=322992
+http://192.168.0.136:6878/ace/getstream?infohash=112a47da451cc256e8dbd49b7fd2bedea6da3f3e
+#EXTINF:-1,430. Sky Cinema Action HD [DE] [ regional ] 2023-02-25 18:20:28 a=1 b=588789
+http://192.168.0.136:6878/ace/getstream?infohash=167b439ae4fd189c348e6588c1aab07346435716
+#EXTINF:-1,431. Sky Select 7 HD [DE] [ regional ] 2023-02-25 18:20:16 a=1 b=347560
+http://192.168.0.136:6878/ace/getstream?infohash=058a05652891dc7bb6f132c74d016aa2ea7ecd10
+#EXTINF:-1,432. Magenta Sport 11 HD [DE] [ regional ] 2023-02-25 18:20:07 a=1 b=1037565
+http://192.168.0.136:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+#EXTINF:-1,433. JOJ (1+) | HD (EX-YU) [ tv ] 2023-02-24 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=473520eea49b2d01f4058910a42b045004db149e
+#EXTINF:-1,434. RedTraffic Big Tits HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=d02b8e98df4584067c9cae9f75b5582eeacfe7d8
+#EXTINF:-1,435. beIN SPORTS HD 3 [TR] [ regional ] 2023-02-25 18:20:32 a=1 b=408197
+http://192.168.0.136:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552
+#EXTINF:-1,436. Eleven Sports 1 HD [PL] [ regional; sport ] 2023-02-25 18:20:14 a=1 b=835520
+http://192.168.0.136:6878/ace/getstream?infohash=73d24aeff6515abb236ea8a3e77d89fe0b04b665
+#EXTINF:-1,437. beIN SPORTS HD 4 [TR] [ regional ] 2023-02-25 18:20:32 a=1 b=412182
+http://192.168.0.136:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa
+#EXTINF:-1,438. Охотник и Рыболов HD [RU] [ educational; movies ] 2023-02-25 18:20:21 a=1 b=1169509
+http://192.168.0.136:6878/ace/getstream?infohash=10cb1b48a429a04bbcdbcd75835f26062c4e41b4
+#EXTINF:-1,439. Magenta Sport 2 HD [DE] [ regional ] 2023-02-25 18:20:05 a=1 b=1150826
+http://192.168.0.136:6878/ace/getstream?infohash=0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6
+#EXTINF:-1,440. Sky Cinema Premieren HD [DE] [ regional ] 2023-02-25 18:20:17 a=1 b=521569
+http://192.168.0.136:6878/ace/getstream?infohash=cf3db052c1bc48dd5c9e55c5b443d494ca277700
+#EXTINF:-1,441. Sky Cinema Triller HD [DE] [ regional ] 2023-02-25 18:20:34 a=1 b=398452
+http://192.168.0.136:6878/ace/getstream?infohash=a6924a938de3d632a18a462bf286a323e810dcae
+#EXTINF:-1,442. SWR Fernsehen RP HD [DE] [ regional ] 2023-02-25 18:20:31 a=1 b=2117740
+http://192.168.0.136:6878/ace/getstream?infohash=dd42fca4379fd0bb616e517f2a63ede01aa263b9
+#EXTINF:-1,443. Sky Select 5 HD [DE] [ regional ] 2023-02-25 18:20:15 a=1 b=402487
+http://192.168.0.136:6878/ace/getstream?infohash=6e3967f21c40ce690fef681d9eddc1de84fd8b97
+#EXTINF:-1,444. Sky Select 3 HD [DE] [ regional ] 2023-02-25 18:20:13 a=1 b=425849
+http://192.168.0.136:6878/ace/getstream?infohash=8ab257f670e0b3132fb93c274458854911738f4b
+#EXTINF:-1,445. Magenta Sport 10 HD [DE] [ regional ] 2023-02-25 18:20:03 a=1 b=1014061
+http://192.168.0.136:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
+#EXTINF:-1,446. RedTraffic Big Dick HD (18+) [ tv ] 2023-02-25 18:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=e28a7ea0f222ca98d6a40476bede5125b67c1a7f
+#EXTINF:-1,447. Reload Radio Music Power HD [ TV ] 2023-02-25 17:49:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=89449242762e88142405e8353f2b4126a926f422
+#EXTINF:-1,448. Лучшие моменты ЛЧ 2 HD [ tv ] 2023-02-25 17:14:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=7aa48fc6276cb6c8d6d5825cd6a3a82e30f7af37
+#EXTINF:-1,449. Красноярск - Бобровый Лог 5 [HD] [ tv ] 2023-02-23 15:21:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=70729eabaad21d647e618a25f8a1ef44f7a77d22
+#EXTINF:-1,450. BCU Кинозал Premiere 2 HD [RU] [ movies ] 2023-02-25 18:20:22 a=1 b=790314
+http://192.168.0.136:6878/ace/getstream?infohash=0e1f8b3f3bcc338c333fc131b0817fdfc4ebf13b
+#EXTINF:-1,451. AMAZON PRIME VIDEO 2 HD [BE] [ sport ] 2023-02-25 18:20:13 a=1 b=500000
+http://192.168.0.136:6878/ace/getstream?infohash=d5e3bce4037e4b803fe21b4ffd6ac59f2e047bdf
+#EXTINF:-1,452. AMAZON PRIME VIDEO 7 HD [BE] [ sport ] 2023-02-25 18:20:21 a=1 b=1215538
+http://192.168.0.136:6878/ace/getstream?infohash=9f1deddf72aaa660521b2831b73cdb526bee5217
+#EXTINF:-1,453. AMAZON PRIME VIDEO 6 HD [BE] [ sport ] 2023-02-25 18:20:19 a=1 b=500000
+http://192.168.0.136:6878/ace/getstream?infohash=2a8581299664dc27b629e828b44ea8663dd6f86a
+#EXTINF:-1,455. AMAZON PRIME VIDEO 1 HD [BE] [ sport ] 2023-02-25 18:20:19 a=1 b=45814
+http://192.168.0.136:6878/ace/getstream?infohash=b03b717da4fdaf1d17b594a2fbe1846ca69b884b
+#EXTINF:-1,456. Sky Cinema Best Of HD [DE] [ regional ] 2023-02-25 18:20:34 a=1 b=655542
+http://192.168.0.136:6878/ace/getstream?infohash=a0de8f1ef9e2c563f6dafc97fd335c598112634a
+#EXTINF:-1,457. ABC 2 Baton Rouge LA (WBRZ-HD) [ regional ] 2023-02-25 16:35:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=ff2b1129854fb7277115c047d5c8394f164e919a
+#EXTINF:-1,458. BCU Кинозал Premiere 1 HD [RU] [ movies ] 2023-02-25 18:20:24 a=1 b=626405
+http://192.168.0.136:6878/ace/getstream?infohash=aeb2a969592f32d318e362601e3dfa9b51672039
+#EXTINF:-1,459. BCU Кинозал Premiere 3 HD [RU] [ movies ] 2023-02-25 18:20:18 a=1 b=658893
+http://192.168.0.136:6878/ace/getstream?infohash=395e35eb507c28e97c313cf72d7817784fc214d5
+#EXTINF:-1,460. AMAZON PRIME VIDEO 4 HD [BE] [ sport ] 2023-02-25 18:20:24 a=1 b=557614
+http://192.168.0.136:6878/ace/getstream?infohash=d3476ac0e3eb417cae8e62de0219124b8e78f450
+#EXTINF:-1,461. AMAZON PRIME VIDEO 8 HD [BE] [ sport ] 2023-02-25 18:20:06 a=1 b=858450
+http://192.168.0.136:6878/ace/getstream?infohash=92d85a77ea728426d80a8bbf2085558125329511
+#EXTINF:-1,462. AMAZON PRIME VIDEO 3 HD [BE] [ sport ] 2023-02-25 18:20:28 a=1 b=47012
+http://192.168.0.136:6878/ace/getstream?infohash=b91bf1068c038fb7cea682349c3fcf5de7567aa5
+#EXTINF:-1,463. Sky Cinema Premieren +24 HD [DE] [ regional ] 2023-02-25 18:20:26 a=1 b=1410282
+http://192.168.0.136:6878/ace/getstream?infohash=dd477014bd44d726dfb8747bf956019226a03163
+#EXTINF:-1,464. AMAZON PRIME VIDEO 5 HD [BE] [ sport ] 2023-02-25 18:20:36 a=1 b=870519
+http://192.168.0.136:6878/ace/getstream?infohash=fdff343cb00a3cf781867eab921d93e4fef49d16
+#EXTINF:-1,465. Чехия - Белые медведи в зоопарке [HD] [ tv ] 2023-02-25 13:56:02 a=1
+http://192.168.0.136:6878/ace/getstream?infohash=f983ec06ee6cfef025ca1fdd32ed37acaf7dc281

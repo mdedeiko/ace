@@ -1,0 +1,58 @@
+20230221180000,<programme start="20230221210000 +0300" stop="20230221230000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: Ницца - Аяччо</title></programme>
+20230221200000,<programme start="20230221230000 +0300" stop="20230222010000 +0300" channel="setanta1-by"><desc lang="ru">Профессиональная лига, объединяющая футбольные клубы Англии и частично Уэльса</desc><title lang="ru">Футбол. Чемпионшип Английской Футбольной Лиги : Бернли - Уотфорд</title></programme>
+20230221220000,<programme start="20230222010000 +0300" stop="20230222033000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига - Манчестер сити - Астон Вилла</title></programme>
+20230222003000,<programme start="20230222033000 +0300" stop="20230222060000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол. НБА: Милуоки Бакс - Бостон Селтикс</title></programme>
+20230222030000,<programme start="20230222060000 +0300" stop="20230222080000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1 : Лион - Ланс</title></programme>
+20230222050000,<programme start="20230222080000 +0300" stop="20230222100000 +0300" channel="setanta1-by"><title lang="ru">Футбол - Премьер Лига: Лестер - Тоттенхэм</title></programme>
+20230222070000,<programme start="20230222100000 +0300" stop="20230222120000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: Монако - ПСЖ</title></programme>
+20230222090000,<programme start="20230222120000 +0300" stop="20230222150000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол - Матч всех звёзд</title></programme>
+20230222120000,<programme start="20230222150000 +0300" stop="20230222170000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига: Ливерпуль - Эвертон</title></programme>
+20230222140000,<programme start="20230222170000 +0300" stop="20230222190000 +0300" channel="setanta1-by"><title lang="ru">Футбол - Лига 1: Тулуза - Марсель</title></programme>
+20230222160000,<programme start="20230222190000 +0300" stop="20230222210000 +0300" channel="setanta1-by"><title lang="ru">Футбол Премьер-Лига: Ноттингем Форест - Манчестер Сити</title></programme>
+20230222180000,<programme start="20230222210000 +0300" stop="20230222220000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: Тур 24 - Обзор</title></programme>
+20230222190000,<programme start="20230222220000 +0300" stop="20230223000000 +0300" channel="setanta1-by"><title lang="ru">Футбол - Премьер Лига: Челси - Саутгемптон</title></programme>
+20230222210000,<programme start="20230223000000 +0300" stop="20230223030000 +0300" channel="setanta1-by"><title lang="ru">Гонки. Формула 1: Гран-при Бразилии - Гонка</title></programme>
+20230223000000,<programme start="20230223030000 +0300" stop="20230223060000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол. НБА: Финикс Санз - Лос Анджелес Клипперс</title></programme>
+20230223030000,<programme start="20230223060000 +0300" stop="20230223080000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1 : Брест - Монако</title></programme>
+20230223050000,<programme start="20230223080000 +0300" stop="20230223100000 +0300" channel="setanta1-by"><title lang="ru">Футбол Премьер-Лига: Эвертон - Лидс Юнайтед</title></programme>
+20230223070000,<programme start="20230223100000 +0300" stop="20230223120000 +0300" channel="setanta1-by"><title lang="ru">Футбол - Лига 1 : Тулуза - Ренн</title></programme>
+20230223090000,<programme start="20230223120000 +0300" stop="20230223150000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол - НБА: Восходящие звезды</title></programme>
+20230223120000,<programme start="20230223150000 +0300" stop="20230223170000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: ПСЖ - Лилль</title></programme>
+20230223140000,<programme start="20230223170000 +0300" stop="20230223190000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига: Арсенал - Манчестер сити</title></programme>
+20230223160000,<programme start="20230223190000 +0300" stop="20230223210000 +0300" channel="setanta1-by"><title lang="ru">Футбол Лига 1: Осер - Лион</title></programme>
+20230223180000,<programme start="20230223210000 +0300" stop="20230223230000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер лига: Ньюкасл - Ливерпуль</title></programme>
+20230223200000,<programme start="20230223230000 +0300" stop="20230224010000 +0300" channel="setanta1-by"><desc lang="ru">Турнир среди профессиональных мужских клубов из стран, являющихся членами ФИБА Европа. Основной европейский турнир, стартовавший в 1958 году под названием Кубка европейских чемпионов</desc><title lang="ru">Баскетбол. Евролига. Реал Мадрид - Жальгирис</title></programme>
+20230223220000,<programme start="20230224010000 +0300" stop="20230224030000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига: Тоттенхэм - Вест Хэм</title></programme>
+20230224000000,<programme start="20230224030000 +0300" stop="20230224050000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: Монако - ПСЖ</title></programme>
+20230224020000,<programme start="20230224050000 +0300" stop="20230224060000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер-Лига: PL 30</title></programme>
+20230224030000,<programme start="20230224060000 +0300" stop="20230224090000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол. НБА: Лос-Анджелес Лейкерс - Голден Стэйт Уорриорз</title></programme>
+20230224060000,<programme start="20230224090000 +0300" stop="20230224110000 +0300" channel="setanta1-by"><title lang="ru">Футбол - Лига 1: Тулуза - Марсель</title></programme>
+20230224080000,<programme start="20230224110000 +0300" stop="20230224120000 +0300" channel="setanta1-by"><title lang="ru">Футбол Премьер-Лига - Icon</title></programme>
+20230224090000,<programme start="20230224120000 +0300" stop="20230224150000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол. НБА: Лос-Анджелес Лейкерс - Голден Стэйт Уорриорз</title></programme>
+20230224120000,<programme start="20230224150000 +0300" stop="20230224170000 +0300" channel="setanta1-by"><desc lang="ru">Турнир среди профессиональных мужских клубов из стран, являющихся членами ФИБА Европа. Основной европейский турнир, стартовавший в 1958 году под названием Кубка европейских чемпионов</desc><title lang="ru">Баскетбол. Евролига. Реал Мадрид - Жальгирис</title></programme>
+20230224140000,<programme start="20230224170000 +0300" stop="20230224190000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига:Манчестер Юнайтед - Лестер</title></programme>
+20230224160000,<programme start="20230224190000 +0300" stop="20230224210000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: ПСЖ - Лилль</title></programme>
+20230224180000,<programme start="20230224210000 +0300" stop="20230224230000 +0300" channel="setanta1-by"><desc lang="ru">Турнир среди профессиональных мужских клубов из стран, являющихся членами ФИБА Европа. Основной европейский турнир, стартовавший в 1958 году под названием Кубка европейских чемпионов</desc><title lang="ru">Баскетбол. Евролига : Црвена Звезда - Альба</title></programme>
+20230224200000,<programme start="20230224230000 +0300" stop="20230225010000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер-лига: Фулхэм - Вулверхэмптон</title></programme>
+20230224220000,<programme start="20230225010000 +0300" stop="20230225033000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер лига: Ньюкасл - Ливерпуль</title></programme>
+20230225003000,<programme start="20230225033000 +0300" stop="20230225060000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол. НБА: Милуоки Бакс - Майами Хит</title></programme>
+20230225030000,<programme start="20230225060000 +0300" stop="20230225080000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1 : Брест - Монако</title></programme>
+20230225050000,<programme start="20230225080000 +0300" stop="20230225100000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига: Арсенал - Манчестер сити</title></programme>
+20230225070000,<programme start="20230225100000 +0300" stop="20230225120000 +0300" channel="setanta1-by"><title lang="ru">Футбол Лига 1: Осер - Лион</title></programme>
+20230225090000,<programme start="20230225120000 +0300" stop="20230225153000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол. НБА: Милуоки Бакс - Майами Хит</title></programme>
+20230225123000,<programme start="20230225153000 +0300" stop="20230225180000 +0300" channel="setanta1-by"><desc lang="ru">Профессиональная лига, объединяющая футбольные клубы Англии и частично Уэльса</desc><title lang="ru">Футбол. Чемпионшип Английской Футбольной Лиги : Ковентри Сити - Сандерленд</title></programme>
+20230225150000,<programme start="20230225180000 +0300" stop="20230225203000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига: Лестер - Арсенал</title></programme>
+20230225173000,<programme start="20230225203000 +0300" stop="20230225224500 +0300" channel="setanta1-by"><title lang="ru">Premier League: Bournemouth - Manchester City</title></programme>
+20230225194500,<programme start="20230225224500 +0300" stop="20230226010000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер-Лига: Кристал Пэлас - Ливерпуль</title></programme>
+20230225220000,<programme start="20230226010000 +0300" stop="20230226030000 +0300" channel="setanta1-by"><title lang="ru">Premier League: Fulham - Wolves</title></programme>
+20230226000000,<programme start="20230226030000 +0300" stop="20230226050000 +0300" channel="setanta1-by"><desc lang="ru">Турнир среди профессиональных мужских клубов из стран, являющихся членами ФИБА Европа. Основной европейский турнир, стартовавший в 1958 году под названием Кубка европейских чемпионов</desc><title lang="ru">Баскетбол. Евролига : Црвена Звезда - Альба</title></programme>
+20230226020000,<programme start="20230226050000 +0300" stop="20230226070000 +0300" channel="setanta1-by"><title lang="ru">Футбол Премьер-Лига: Эвертон - Лидс Юнайтед</title></programme>
+20230226040000,<programme start="20230226070000 +0300" stop="20230226090000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: ПСЖ - Лилль</title></programme>
+20230226060000,<programme start="20230226090000 +0300" stop="20230226110000 +0300" channel="setanta1-by"><title lang="ru">Football: Premier League - Aston Villa-Arsenal</title></programme>
+20230226080000,<programme start="20230226110000 +0300" stop="20230226120000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер-Лига - Rewinds</title></programme>
+20230226090000,<programme start="20230226120000 +0300" stop="20230226143000 +0300" channel="setanta1-by"><title lang="ru">Баскетбол НБА : Детройт Пистонс - Торонто Рэпторс</title></programme>
+20230226113000,<programme start="20230226143000 +0300" stop="20230226163000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига: Лестер - Арсенал</title></programme>
+20230226133000,<programme start="20230226163000 +0300" stop="20230226193000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Премьер Лига: Тоттенхэм - Челси</title></programme>
+20230226163000,<programme start="20230226193000 +0300" stop="20230226213000 +0300" channel="setanta1-by"><title lang="ru">Футбол. Кубок Английской Футбольной Лиги: Манчестер Юнайтед - Ньюкасл</title></programme>
+20230226183000,<programme start="20230226213000 +0300" stop="20230226224500 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: Classic</title></programme>
+20230226194500,<programme start="20230226224500 +0300" stop="20230226234500 +0300" channel="setanta1-by"><title lang="ru">Футбол. Лига 1: Марсель - ПСЖ</title></programme>

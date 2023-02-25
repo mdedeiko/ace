@@ -1,0 +1,16 @@
+20230221170000,<programme start="20230221200000 +0300" stop="20230222080000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230222050000,<programme start="20230222080000 +0300" stop="20230222190000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230222160000,<programme start="20230222190000 +0300" stop="20230222200000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Пять звезд</title></programme>
+20230222170000,<programme start="20230222200000 +0300" stop="20230223080000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230223050000,<programme start="20230223080000 +0300" stop="20230223190000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230223160000,<programme start="20230223190000 +0300" stop="20230223200000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Пять звезд</title></programme>
+20230223170000,<programme start="20230223200000 +0300" stop="20230224080000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230224050000,<programme start="20230224080000 +0300" stop="20230224190000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230224160000,<programme start="20230224190000 +0300" stop="20230224200000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Пять звезд</title></programme>
+20230224170000,<programme start="20230224200000 +0300" stop="20230225080000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230225050000,<programme start="20230225080000 +0300" stop="20230225190000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230225160000,<programme start="20230225190000 +0300" stop="20230225200000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Пять звезд</title></programme>
+20230225170000,<programme start="20230225200000 +0300" stop="20230226080000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230226050000,<programme start="20230226080000 +0300" stop="20230226190000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230226160000,<programme start="20230226190000 +0300" stop="20230226200000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Пять звезд</title></programme>
+20230226170000,<programme start="20230226200000 +0300" stop="20230226210000 +0300" channel="hlsproxy-54462"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>

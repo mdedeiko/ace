@@ -1,0 +1,10 @@
+20230221220000,<programme start="20230222010000 +0300" stop="20230222130000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230222100000,<programme start="20230222130000 +0300" stop="20230223010000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230222220000,<programme start="20230223010000 +0300" stop="20230223130000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230223100000,<programme start="20230223130000 +0300" stop="20230224010000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230223220000,<programme start="20230224010000 +0300" stop="20230224130000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230224100000,<programme start="20230224130000 +0300" stop="20230225010000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230224220000,<programme start="20230225010000 +0300" stop="20230225130000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230225100000,<programme start="20230225130000 +0300" stop="20230226010000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230225220000,<programme start="20230226010000 +0300" stop="20230226130000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>
+20230226100000,<programme start="20230226130000 +0300" stop="20230226140000 +0300" channel="hlsproxy-695"><category lang="ru">Новости</category><title lang="ru">Інформаційний марафон</title></programme>

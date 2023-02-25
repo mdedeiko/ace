@@ -1,0 +1,32 @@
+20230221190000,<programme start="20230221220000 +0300" stop="20230222024500 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230221234500,<programme start="20230222024500 +0300" stop="20230222071500 +0300" channel="hlsproxy-653"><category lang="ru">Сериал</category><title lang="ru">т/с Містер Селфрідж</title></programme>
+20230222041500,<programme start="20230222071500 +0300" stop="20230222150000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230222120000,<programme start="20230222150000 +0300" stop="20230222180000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230222150000,<programme start="20230222180000 +0300" stop="20230222190000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230222160000,<programme start="20230222190000 +0300" stop="20230222220000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230222190000,<programme start="20230222220000 +0300" stop="20230223024500 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230222234500,<programme start="20230223024500 +0300" stop="20230223071500 +0300" channel="hlsproxy-653"><category lang="ru">Сериал</category><title lang="ru">т/с Містер Селфрідж</title></programme>
+20230223041500,<programme start="20230223071500 +0300" stop="20230223150000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230223120000,<programme start="20230223150000 +0300" stop="20230223180000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230223150000,<programme start="20230223180000 +0300" stop="20230223190000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230223160000,<programme start="20230223190000 +0300" stop="20230223220000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230223190000,<programme start="20230223220000 +0300" stop="20230224024500 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230223234500,<programme start="20230224024500 +0300" stop="20230224071500 +0300" channel="hlsproxy-653"><category lang="ru">Сериал</category><title lang="ru">т/с Містер Селфрідж</title></programme>
+20230224041500,<programme start="20230224071500 +0300" stop="20230224150000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230224120000,<programme start="20230224150000 +0300" stop="20230224180000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230224150000,<programme start="20230224180000 +0300" stop="20230224190000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230224160000,<programme start="20230224190000 +0300" stop="20230224220000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230224190000,<programme start="20230224220000 +0300" stop="20230225024500 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230224234500,<programme start="20230225024500 +0300" stop="20230225070000 +0300" channel="hlsproxy-653"><category lang="ru">Сериал</category><title lang="ru">т/с Містер Селфрідж</title></programme>
+20230225040000,<programme start="20230225070000 +0300" stop="20230225150000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230225120000,<programme start="20230225150000 +0300" stop="20230225180000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230225150000,<programme start="20230225180000 +0300" stop="20230225190000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230225160000,<programme start="20230225190000 +0300" stop="20230225220000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230225190000,<programme start="20230225220000 +0300" stop="20230226023000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230225233000,<programme start="20230226023000 +0300" stop="20230226070000 +0300" channel="hlsproxy-653"><category lang="ru">Сериал</category><title lang="ru">т/с Таємниці Борго Ларічі</title></programme>
+20230226040000,<programme start="20230226070000 +0300" stop="20230226150000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230226120000,<programme start="20230226150000 +0300" stop="20230226180000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230226150000,<programme start="20230226180000 +0300" stop="20230226190000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230226160000,<programme start="20230226190000 +0300" stop="20230226220000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин ТЮСО</title></programme>
+20230226190000,<programme start="20230226220000 +0300" stop="20230227023000 +0300" channel="hlsproxy-653"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230226233000,<programme start="20230227023000 +0300" stop="20230227033000 +0300" channel="hlsproxy-653"><category lang="ru">Сериал</category><title lang="ru">т/с Таємниці Борго Ларічі</title></programme>

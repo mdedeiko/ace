@@ -1,0 +1,38 @@
+{
+    "SERVER": {
+        "address": "0.0.0.0",
+        "port": 8085
+    },
+    "playlists": [
+        {
+            "name": "IPTV",
+            "type": "link",
+            "uri": "http://192.168.0.2/hls.m3u",
+            "plugin": "",
+            "localCopy": "./iptv.m3u8",
+            "isUseLocalAceStreamMediaProxy": true,
+            "aceStreamMediaProxyURL": "http://192.168.0.2:6878",
+            "useLogos": true,
+            "flussonicType": "index",
+            "isPassThrough": false,
+            "isManualUpdate": false,
+            "isEnabled": true,
+            "nameReplacer": [],
+            "headers": {
+                "value": "",
+                "isPlaylist": true,
+                "isM3U8": true,
+                "isChunk": true
+            },
+            "remotePath": "",
+            "ffmpegCommand": ""
+        }
+    ],
+    "epg": {
+        "tvGuideUrl": [
+            "https://iptvx.one/epg/epg.xml.gz"
+        ]
+    },
+    "serverName": "",
+    "isHtmlPlayerEnabled": false
+}

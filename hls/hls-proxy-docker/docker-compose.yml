@@ -1,0 +1,10 @@
+services:
+   version: '3.7'
+services:
+  hls:
+    container_name: proxy
+    build: ./
+    ports:
+      - '3080:8085'
+    volumes:
+      - /apps/hls/data:/opt/hlsp/ 

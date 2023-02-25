@@ -1,0 +1,22 @@
+20230221170000,<programme start="20230221200000 +0300" stop="20230221210000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230221180000,<programme start="20230221210000 +0300" stop="20230222080000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230222050000,<programme start="20230222080000 +0300" stop="20230222180000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230222150000,<programme start="20230222180000 +0300" stop="20230222200000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Mega Mall</title></programme>
+20230222170000,<programme start="20230222200000 +0300" stop="20230222210000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230222180000,<programme start="20230222210000 +0300" stop="20230223080000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230223050000,<programme start="20230223080000 +0300" stop="20230223180000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230223150000,<programme start="20230223180000 +0300" stop="20230223200000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Mega Mall</title></programme>
+20230223170000,<programme start="20230223200000 +0300" stop="20230223210000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230223180000,<programme start="20230223210000 +0300" stop="20230224080000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230224050000,<programme start="20230224080000 +0300" stop="20230224180000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230224150000,<programme start="20230224180000 +0300" stop="20230224200000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Mega Mall</title></programme>
+20230224170000,<programme start="20230224200000 +0300" stop="20230224210000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230224180000,<programme start="20230224210000 +0300" stop="20230225080000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230225050000,<programme start="20230225080000 +0300" stop="20230225180000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230225150000,<programme start="20230225180000 +0300" stop="20230225200000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Mega Mall</title></programme>
+20230225170000,<programme start="20230225200000 +0300" stop="20230225210000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230225180000,<programme start="20230225210000 +0300" stop="20230226080000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230226050000,<programme start="20230226080000 +0300" stop="20230226180000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
+20230226150000,<programme start="20230226180000 +0300" stop="20230226200000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин Mega Mall</title></programme>
+20230226170000,<programme start="20230226200000 +0300" stop="20230226210000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин П’ять зірок</title></programme>
+20230226180000,<programme start="20230226210000 +0300" stop="20230226220000 +0300" channel="hlsproxy-665"><category lang="ru">Досуг</category><title lang="ru">Телемагазин MiLady / Фазенда</title></programme>
